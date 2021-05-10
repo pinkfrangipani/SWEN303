@@ -12,8 +12,15 @@
   
 ## Background<a name="background"></a>
 
-### Description  
-Copy and paste description  
+### Description
+A student questioning system (SQS) allows students to create and answer each other’s multi-choice exam-style questions on course content. It is mainly targeted at university students for this context. This allows students to demonstrate their understanding by answering, rating and providing feedback as explanations, as the creator and answerer. It solves an accessibility problem in where students can help to teach their peers and themselves via a platform that encourages collaboration. This allows the reciprocation of feedback among students to consolidate understanding of course content, therefore a likelihood of achieving better grades. It can also be beneficial in the context of distance learning and large class sizes as it enhances the social aspects of collaboration, creating a community.  
+
+The main users are university students, but it can also assist lecturers. Most of the time goes towards the communication of key ideas and techniques rather than the application of it. Through the SQS, lecturers can moderate the students' questions, which may lead to valuable insights in students applying learned ideas. This may improve teaching judging from the gaps in knowledge demonstrated. 
+
+The current user interface of the Peerwise system is dated and a new system will aim to remedy this to modern standards. A new SQS will be proposed based on the existing system of Peerwise and the designs of our team. The SQS will be in the form of a prototyped website that demonstrates user flow control and semi-functionality. This will feature an improved interface design that includes the needs that will be explored by different users. 
+
+We aim to ideate and combine aspects of the different designs our team have created. This proposition will be delivered with an emphasis on different types of users and their goals. This will be explored by selecting and combining existing personas, and scenarios through our team. Explanations on our team's decision making in how we approach the final prototype will be provided.
+
 ### Business Objectives  
 Copy and paste business objectives here.  
 Could discuss what features or aspects we want to focus on.  
@@ -63,6 +70,16 @@ Probably individually review every design and combine results?
 Description can be copied and pasted.  
 ### Interaction flow and hierarchy  
 Show the flow of click-through in the context of scenarios/use cases? 
+
+Homepage -> Login -> Dashboard/Classroom selection -> Create Questions
+                                                   -> Create a quiz - (collectio of multiple questions)
+                                                   -> Answer single questions
+                                                   -> Answer quiz
+                                                   -> Ask general questions (Q/A)
+                                                   -> 
+
+
+
 ### Prototype Design
 Design goes here.  
 Probably take one of our existing designs and build upon it for time efficiency?  
