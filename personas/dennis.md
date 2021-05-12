@@ -1,4 +1,4 @@
-#Dennis Casas
+# Dennis Casas
 
 <img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/personas/persona-images/dennis-small.png" alt="Dennis Casas" width="400" height="400">
 
