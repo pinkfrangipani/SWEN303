@@ -90,7 +90,7 @@ Homepage -> Login -> Dashboard/Classroom selection -> Create Questions
                                                    -> Ask general questions (Q/A)
                                                    -> 
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/project-hierarchy.png" alt="project-hierarchy" width="1884" height="1344">
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/updating-report/project-hierarchy.png" alt="project-hierarchy" width="1884" height="1344">
 
 
 ### Prototype Design
