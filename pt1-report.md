@@ -83,12 +83,12 @@ Description can be copied and pasted.
 ### Interaction flow and hierarchy  
 Show the flow of click-through in the context of scenarios/use cases? 
 
-Homepage -> Login -> Dashboard/Classroom selection -> Create Questions
-                                                   -> Create a quiz - (collectio of multiple questions)
-                                                   -> Answer single questions
-                                                   -> Answer quiz
-                                                   -> Ask general questions (Q/A)
-                                                   -> 
+Homepage -> Login -> Dashboard/Classroom selection -> Create Questions  
+													-> Create a quiz - (collection of multiple questions)  
+                                                   -> Answer single questions  
+                                                   -> Answer quiz  
+                                                   -> Ask general questions (Q/A)  
+                                                   ->   
 
 
 

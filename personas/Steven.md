@@ -1,6 +1,6 @@
 # Steven Ash
 
-<img src="https://gitlab.ecs.vuw.ac.nz/joejust/SWEN303-Assignment-1/-/raw/main/personas/steven-small.png" alt="Steven Ash" width="400" height="400">
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/personas/persona-images/steven-small.png" alt="Steven Ash" width="400" height="400">
 
 **Bio:**
 Steven is a 27-year-old lecturer at Victoria University of Wellington. 
