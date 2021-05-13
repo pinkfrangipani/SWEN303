@@ -85,13 +85,7 @@ Description can be copied and pasted.
 ### Interaction flow and hierarchy  
 Show the flow of click-through in the context of scenarios/use cases? 
 
-Homepage -> Login -> Dashboard/Classroom selection -> Create Questions  
-													-> Create a quiz - (collection of multiple questions)  
-                                                   -> Answer single questions  
-                                                   -> Answer quiz  
-                                                   -> Ask general questions (Q/A)  
-                                                   ->   
-
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/updating-report/project-hierarchy.png" width="1884" height="1344">
 
 
 ### Prototype Design
