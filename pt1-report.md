@@ -54,19 +54,150 @@ Throughout the group, we found out that many personas were similar and diverse i
 It was also necessary to focus on differences among our selection. A necessary part was to cover a wide range of needs for our system. This meant validating how generalised our personas were. If our personas were too similar, our system would be built around only those personas. Therefore, excluding potential users with diverse traits. Through our discussion, we found that our personas were different in terms of abilities, resilience, and weaknesses. This meant that we had a range of attributes that our system needed to assist with.  
 
 
-## Scenarios
+## Scenarios/Use cases
 Can copy and paste scenarios from selected personas and modify them. 
 Maybe one scenario for each persona?  
+
+**Create study question - Personas: Rebecca, Dennis, Elizabeth**
+
+| User                      | System                       |
+|:--------------------------|:-----------------------------|
+| Choose classroom          |                              |
+|                           | Display classroom main menu  |
+| Choose create question    |                              |
+|                           | Display create question page |
+| Write question            |                              |
+|                           | Submit text                  |
+| Write alternative answers |                              |
+|                           | Submit text                  |
+| Indicate correct answer   |                              |
+|                           | Select answer                |
+| Submit question           |                              |
+|                           | Publish question             |
+
+**Answering study question - Personas: Rebecca, Dennis, Elizabeth**
+
+| User                                 | System                      |
+|:-------------------------------------|:----------------------------|
+| Choose classroom                     |                             |
+|                                      | Display classroom main menu |
+| Choose view other people’s questions |                             |
+|                                      | Display questions page      |
+| Choose question                      |                             |
+|                                      | Display answers page        |
+| Select answer                        |                             |
+
+
+**Rate study question - Personas: Rebecca, Dennis, Elizabeth**  
+
+| User                                 | System                      |
+|:-------------------------------------|:----------------------------|
+| Choose classroom                     |                             |
+|                                      | Display classroom main menu |
+| Choose view other people’s questions |                             |
+|                                      | Display questions page      |
+| Choose view answers                  |                             |
+|                                      | Display answers page        |
+| Rate question                        |                             |
+|                                      | Highlight selected ratings  |
+| Enter rating                         |                             |
+|                                      | Submit rating               |
+
+
+**Take quiz - Personas: Rebecca, Dennis, Elizabeth**  
+
+| User             | System                      |
+|:-----------------|:----------------------------|
+| Choose classroom |                             |
+|                  | Display classroom main menu |
+| Choose quiz      |                             |
+|                  | Display quiz menu           |
+| Choose quiz type |                             |
+|                  | Start quiz                  |
+| Answer question  |                             |
+|                  | Record answer               |
+|                  | Display next question       |
+| Finish quiz      |                             |
+|                  | Display quiz results page   |
+
+
+**Find study question - Personas: Rebecca, Dennis, Elizabeth**  
+
+| User                  | System                      |
+|:----------------------|:----------------------------|
+| Choose classroom      |                             |
+|                       | Display classroom main menu |
+| Choose view questions |                             |
+|                       | Display question page       |
+| Select search bar     |                             |
+|                       | Display search options      |
+| Enter search terms    |                             |
+|                       | Display search results      |
+| Choose question       |                             |
+|                       | Display question page       |
+
+
+**Add comment to a study question - Personas: Rebecca, Dennis, Elizabeth**  
+
+| User                                 | System                      |
+|:-------------------------------------|:----------------------------|
+| Choose classroom                     |                             |
+|                                      | Display classroom main menu |
+| Choose view other people’s questions |                             |
+|                                      | Display questions page      |
+| Choose view answers                  |                             |
+|                                      | Display answers page        |
+| Write comment                        |                             |
+|                                      | Publish comment             |
+
+**Join classroom - Personas: Rebecca, Dennis, Elizabeth** 
+
+| User                                         | System                                 | Moderator      |
+|:---------------------------------------------|:---------------------------------------|:---------------|
+| Search for course by name and/or institution |                                        |                |
+|                                              | Display search results                 |                |
+| Select course                                |                                        |                |
+| Request to join                              |                                        |                |
+|                                              | Send moderator notification of request |                |
+|                                              |                                        | Accept request |
+|                                              | Add user to course granting access     |                |
+
+
+**Ask a general question - Personas: Rebecca, Dennis, Elizabeth**  
+
+|   |   |
+|:--|:--|
+|   |   |
+|   |   |
+|   |   |
+
+**Answer a general question - Personas: Rebecca, Dennis, Elizabeth**  
+
+|   |   |
+|:--|:--|
+|   |   |
+|   |   |
+|   |   |  
+
+**Modify/Remove Question/Answer - Personas: Steven**
+
+| User                           | System                              |
+|:-------------------------------|:------------------------------------|
+| Choose classroom               |                                     |
+|                                | Display classroom main menu         |
+| Choose view questions          |                                     |
+|                                | Display question page               |
+| Select a question              |                                     |
+|                                | Display selected question           |
+| Select question/answer removal |                                     |
+|                                | Display removal/modification prompt |
+| Select confirmation            |                                     |
+|                                | Remove/modify question from display |
+
 ### How scenarios were selected and merged
 - What was our process for selection?
 - What criteria did we base our selection on?
 - Why did we merge our scenarios?
-
-### Scenario 1  
-### Scenario 2  
-### Scenario 3  
-### Scenario 4
-
 
 ## Designs Ideation<a name="ideation"></a>  
 Copy and paste samples of designs from everyone here.  
@@ -85,7 +216,7 @@ Description can be copied and pasted.
 ### Interaction flow and hierarchy  
 Show the flow of click-through in the context of scenarios/use cases? 
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/updating-report/project-hierarchy.png" width="1884" height="1344">
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/updating-report/project-hierarchy.png" width="942" height="672">
 
 
 ### Prototype Design
