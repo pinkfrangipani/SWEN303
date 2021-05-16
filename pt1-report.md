@@ -216,7 +216,7 @@ Description can be copied and pasted.
 ### Interaction flow and hierarchy  
 Show the flow of click-through in the context of scenarios/use cases? 
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/updating-report/project-hierarchy.png" width="942" height="672">
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/project-hierarchy.png" width="942" height="672">
 
 
 ### Prototype Design
