@@ -148,7 +148,8 @@ From Te Ata
 | User                                 | System                      |
 |:-------------------------------------|:----------------------------|
 | Choose classroom                     |                             |
-|                                      | Display classroom main menu |
+|                                      | Display classroom
+ main menu |
 | Choose view other people’s questions |                             |
 |                                      | Display questions page      |
 | Choose view answers                  |                             |
@@ -171,20 +172,30 @@ From Chris
 
 
 **Ask a general question - Personas: Rebecca, Dennis, Elizabeth**  
+From Chris
 
-|   |   |
-|:--|:--|
-|   |   |
-|   |   |
-|   |   |
+| User | System|
+| ------ | ------ |
+|Choose course||
+||Display course page, posts and actions|
+|Make new post||
+||Allow for text/media input|
+|Enter content of post||
+|Confirm post||
+||Add post to list of posts on course page|
 
 **Answer a general question - Personas: Rebecca, Dennis, Elizabeth**  
+From Chris
 
-|   |   |
-|:--|:--|
-|   |   |
-|   |   |
-|   |   |  
+| User | System|
+| ------ | ------ |
+|Choose course||
+||Display course page, posts and actions|
+|Select post to answer||
+||Allow for text/media input|
+|Enter content of reply||
+|Confirm reply||
+||Add reply to list of replys on post|
 
 **Modify/Remove Question/Answer - Personas: Steven**  
 From Justin
@@ -211,7 +222,7 @@ In our scenarios selection process we based our scenarios on the following crite
 
 1. Similarity  
 
-Upon analysing the scenarios we had created, we found that we all had similar scenarios such as answering and creating questions. This meant that we could just pick one and refine it. 
+Upon analysing the scenarios we had created, we found that we all had similar scenarios such as answering and creating questions. This meant that we could just pick one and refine it since the similar scenarios are essential. 
 
 2. Relevance to selected personas needs  
 
@@ -219,7 +230,7 @@ A key part of the scenarios is the involvement of our selected personas. Since w
 
 3. System functionality  
 
-In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must allow help them so the scenario is possible. This means that  
+In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must help them in achieving their goals so the scenario can be possible. This means incorporating the relationship between the different features and how the .  
 
 
 ## Designs Ideation<a name="ideation"></a>  
