@@ -55,10 +55,9 @@ It was also necessary to focus on differences among our selection. A necessary p
 
 
 ## Scenarios/Use cases
-Can copy and paste scenarios from selected personas and modify them. 
-Maybe one scenario for each persona?  
+We have selected multiple use cases to represent our system and the needs of our personas.
 
-**Create study question - Personas: Rebecca, Dennis, Elizabeth**    
+**Create question - Personas: Rebecca, Dennis, Elizabeth**    
 From Te Ata
 
 | User                      | System                       |
@@ -76,7 +75,7 @@ From Te Ata
 | Submit question           |                              |
 |                           | Publish question             |
 
-**Answering study question - Personas: Rebecca, Dennis, Elizabeth**  
+**Answering question - Personas: Rebecca, Dennis, Elizabeth**  
 From Te Ata
 
 | User                                 | System                      |
@@ -90,7 +89,7 @@ From Te Ata
 | Select answer                        |                             |
 
 
-**Rate study question - Personas: Rebecca, Dennis, Elizabeth**  
+**Rate question - Personas: Rebecca, Dennis, Elizabeth**  
 From Te Ata  
 
 | User                                 | System                      |
@@ -125,7 +124,7 @@ From Te Ata
 |                  | Display quiz results page   |
 
 
-**Find study question - Personas: Rebecca, Dennis, Elizabeth**  
+**Find question - Personas: Rebecca, Dennis, Elizabeth**  
 From Te Ata 
 
 | User                  | System                      |
@@ -142,20 +141,20 @@ From Te Ata
 |                       | Display question page       |
 
 
-**Add comment to a study question - Personas: Rebecca, Dennis, Elizabeth**  
+**Add comment to a question - Personas: Rebecca, Dennis, Elizabeth**  
 From Te Ata  
 
-| User                                 | System                      |
-|:-------------------------------------|:----------------------------|
-| Choose classroom                     |                             |
-|                                      | Display classroom
- main menu |
-| Choose view other people’s questions |                             |
-|                                      | Display questions page      |
-| Choose view answers                  |                             |
-|                                      | Display answers page        |
-| Write comment                        |                             |
-|                                      | Publish comment             |
+| User                                 | System                 |
+|:-------------------------------------|:-----------------------|
+| Choose classroom                     |                        |
+|                                      | Display classroom      |
+| main menu                            |                        |
+| Choose view other people’s questions |                        |
+|                                      | Display questions page |
+| Choose view answers                  |                        |
+|                                      | Display answers page   |
+| Write comment                        |                        |
+|                                      | Publish comment        |
 
 **Join classroom - Personas: Rebecca, Dennis, Elizabeth**  
 From Chris 
@@ -174,28 +173,28 @@ From Chris
 **Ask a general question - Personas: Rebecca, Dennis, Elizabeth**  
 From Chris
 
-| User | System|
-| ------ | ------ |
-|Choose course||
-||Display course page, posts and actions|
-|Make new post||
-||Allow for text/media input|
-|Enter content of post||
-|Confirm post||
-||Add post to list of posts on course page|
+| User                  | System                                   |
+|:----------------------|:-----------------------------------------|
+| Choose course         |                                          |
+|                       | Display course page, posts and actions   |
+| Make new post         |                                          |
+|                       | Allow for text/media input               |
+| Enter content of post |                                          |
+| Confirm post          |                                          |
+|                       | Add post to list of posts on course page |
 
 **Answer a general question - Personas: Rebecca, Dennis, Elizabeth**  
 From Chris
 
-| User | System|
-| ------ | ------ |
-|Choose course||
-||Display course page, posts and actions|
-|Select post to answer||
-||Allow for text/media input|
-|Enter content of reply||
-|Confirm reply||
-||Add reply to list of replys on post|
+| User                   | System                                 |
+|:-----------------------|:---------------------------------------|
+| Choose course          |                                        |
+|                        | Display course page, posts and actions |
+| Select post to answer  |                                        |
+|                        | Allow for text/media input             |
+| Enter content of reply |                                        |
+| Confirm reply          |                                        |
+|                        | Add reply to list of replies on post   |
 
 **Modify/Remove Question/Answer - Personas: Steven**  
 From Justin
@@ -214,10 +213,6 @@ From Justin
 |                                         | Remove/modify question from display |
 
 ### How scenarios were selected and merged
-- What was our process for selection?
-- What criteria did we base our selection on?
-- Why did we merge our scenarios?  
-
 In our scenarios selection process we based our scenarios on the following criteria:
 
 1. Similarity  
@@ -236,10 +231,22 @@ In deciding which scenarios to choose and modify, the system has to be taken int
 ## Designs Ideation<a name="ideation"></a>  
 
 Individual designs  
+
 - [Chris](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Chris)
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Chris/UX_Concepts_1_Quiz.png" width="3002" height="2354">
+
 - [Jane](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Jane/peerwisewireframes.pdf)
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Jane/question-answering.png" width="480" height="856">
+
 - [Justin](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Justin)
-- [Te Ata]()
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Justin/web-student-answer-question.PNG" width="1827" height="1028">
+
+- [Te Ata](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Te%20Ata)
+
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Te%20Ata/PSYC327_Quiz_question_page" width="2560" height="3498">
 
 
 ## Designs Review<a name="review"></a>    
