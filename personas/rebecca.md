@@ -10,7 +10,7 @@ Rebecca primarily uses PeerWise to create test questions to study with and to di
 Rebecca uses Peerwise multiple times a week on the days with lectures to create new study questions, and then once each day in the week before a test to review study questions. She also consults the course information questions when starting assignments to better understand the assignment specifications.
 
 **Concentration ability:**
-Rebecca is able to sustain focus during schoolwork and can filter outdistractions.
+Rebecca is able to sustain focus during schoolwork and can filter out distractions.
 
 **Time management:**
 Rebecca watches most lectures at home due to her compact schedule and heavy workload of her courses, but is able to allocate regular sessions to study material and work on assignments.

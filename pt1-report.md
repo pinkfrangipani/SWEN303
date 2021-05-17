@@ -1,21 +1,21 @@
 # Project - Pt1 Prototyping Report  
 
 ## Table of Contents
-[Background](#background)  
+1. [Background](#background)  
 
-[Personas](#personas)  
+2. [Personas](#personas)  
 
-[Scenarios](#scenarios)  
+3. [Scenarios](#scenarios)  
 
-[Designs Ideation](#ideation)  
+4. [Designs Ideation](#ideation)  
 
-[Designs Review](#review)  
+5. [Designs Review](#review)  
 
-[Prototype](#prototype)  
+6. [Prototype](#prototype)  
 
-[Demonstration Video](#video)  
+8. [Demonstration Video](#video)  
 
-[Group Reflection](#reflection)  
+9. [Group Reflection](#reflection)  
   
 ## Background<a name="background"></a>
 
@@ -59,6 +59,13 @@ We selected our personas based on a comprehensive discussion, throwing ideas and
 Throughout the group, we found out that many personas were similar and diverse in many ways. Our different personas were similar in terms of their goals and habits. This was beneficial as we could tweak and combine different aspects in our personas. The similarities also meant that we had a consensus with attributes that we valued and agreed upon.  
 
 It was also necessary to focus on differences among our selection. A necessary part was to cover a wide range of needs for our system. This meant validating how generalised our personas were. If our personas were too similar, our system would be built around only those personas. Therefore, excluding potential users with diverse traits. Through our discussion, we found that our personas were different in terms of abilities, resilience, and weaknesses. This meant that we had a range of attributes that our system needed to assist with.  
+
+We selected two student personas; Rebecca and Dennis, that were created by Te Ata. We felt that Rebecca and Dennis captured two individuals with a different lifestyle and approach to their studies. Both of their goals are to succeed in their courses to achieve their dream careers. The SQS is a system that they use to understand course content. Dennis is characterised as a busy student that finds it difficult to manage his time. Rebecca is Dennis is categorised as an individual with low organisation whereas Rebecca is categorised as highly organised. We correlated how organised an individual is to their usage of the system which may represent two archetypes of individuals.  
+
+We also selected Jane's Elizabeth and Justin's Steven personas. With Elizabeth, she has a goal of pursuing an academic career with an emphasis on helping her peers. She is characterised as an individual that does not have much experience with a student questioning platform but enjoys teaching and tutoring. The SQS is the perfect platform to practice her teaching skills in creating questions and explanations. Steven is a lecturer that primarily uses the SQS to provide his students with a platform where they can help each other in demonstrating knowledge of taught content in his course. He wishes to make sure that the students are using the system properly in a safe and collaborative environment. His goal is to maximise the quality of his teaching resources and academic research while minimising effort.
+
+Through this selection process, we believe that we found a diverse range of personas but are also general enough to capture a large number of similar users while minimising our biases. We have selected personas with different goals, attitudes and motivations that users of the SQS may relate to so the SQS can help them and their needs.
+
 
 
 ## Scenarios/Use cases
@@ -232,14 +239,16 @@ A key part of the scenarios is the involvement of our selected personas. Since w
 
 3. System functionality  
 
-In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must help them in achieving their goals so the scenario can be possible. This means incorporating the relationship between the different features and how the features will be used by our personas in the system.
+In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must help them in achieving their goals so the scenario can be possible. This means incorporating the relationship between the different features and how the features will be used by our personas in the system.  
 
-This selection process was relatively smooth. Since almost everyone had used essential use cases instead of the long narrative scenarios, it was simple to examine the use cases. In Te Ata's designs, we noticed that she had use cases for mostly all the essential features that we wanted for our system. We felt that it was time efficient to select those and modify them. We also chose three use cases from Chris' designs, specifically asking/answering general questions and joining a classroom. It was decided that we would incorporate a forum-like page to ask general questions like lecture schedule and course-related admin topics. This was supported by Te Ata's design which included a similar feature. Lastly, we chose Justin's moderator scenario in deleting and modifying questions/comments. We converted his long narrative style into a shortened use case. We felt that since we included a lecturer persona, we should also include their scenario so we could demonstrate how the system will help the lecturer persona. 
+This selection process was relatively smooth. Since almost everyone had used essential use cases instead of the long narrative scenarios, it was simple to examine the use cases. In Te Ata's designs, we noticed that she had use cases for mostly all the essential features that we wanted for our system. We felt that it was time efficient to select those and modify them.   
+
+We also chose three use cases from Chris' designs, specifically asking/answering general questions and joining a classroom. It was decided that we would incorporate a forum-like page to ask general questions like lecture schedule and course-related admin topics. This was supported by Te Ata's design which included a similar feature.  
+
+Lastly, we chose Justin's moderator scenario in deleting and modifying questions/comments. We converted his long narrative style into a shortened use case. We felt that since we included a lecturer persona, we should also include their scenario so we could demonstrate how the system will help the lecturer persona. 
 
 
 ## Designs Ideation<a name="ideation"></a>  
-
-  
 
 **[Chris](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Chris)**
 
@@ -251,17 +260,22 @@ This selection process was relatively smooth. Since almost everyone had used ess
 
 **[Justin](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Justin)**
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Justin/web-student-answer-question.PNG" width="1914" height="514">
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Justin/web-student-answer-question.PNG" width="914" height="514">
 
 **[Te Ata](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Te%20Ata)**
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Te%20Ata/PSYC327_Quiz_question_page_answered.png" width="640" height="874.5">
+<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Te%20Ata/PSYC327_Quiz_question_page_answered.png" width="640" height="875">
 
 
 ## Designs Review<a name="review"></a>    
-Utilise heuristic evaluation, cognitive walkthroughs or a hybrid of both.  
-List pros and cons of each designs from above, use labels to identify them.  
-Probably individually review every design and combine results? 
+To review our designs, we use used a heuristic evaluation to measure the issues in all of our individual designs. We all individually assessed each other's designs using a spreadsheet template containing a list of Nielsen's Heuristics. We focused on the issues as we were striving for key elements that we could improve on our own designs and think of solutions that could remedy the issues. We believe that a key step in creating a combined prototype was to learn from our mistakes first. If we learn from what went wrong in our individual designs, we take one step closer to a better design and a better final prototype.
+
+In our spreadsheet we measured issues by one of ten heuristics by Nielsen based on the following:   
+
+- Severity: How big of an issue is it? 
+- Frequency: Is the issue common or not?
+- Persistence: Is the issue a one-time problem or a repeated one?
+- Impact: Will the issue be easy or difficult for users to overcome?  
 
 
 ## Prototype<a name="prototype"></a>     

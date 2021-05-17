@@ -19,7 +19,7 @@ Dennis frequently starts assignments and studying for tests close to their due d
 Dennis needs instructions clarified and clearly laid out. He also needs learning material to be displayed in a logical flow that makes it easy to know what parts are related to what concept, and how the concept fits in with the outline of the course.  
 
 **Stresses in the environment:**
-Dennis’s room in Education House is small, and there is no space to separate his work area from his relax area. The noise from the city makes it hard for him to get to sleep. Dennis needs to plan and prepare his own meals, and he is limited by the small kitchenette in his room. Dennis is also anxious about budgeting his spending on essentials and stressful behaviour of his parents of whom he depends on for an allowance.  
+Dennis’ room in Education House is small, and there is no space to separate his work area from his relax area. The noise from the city makes it hard for him to get to sleep. Dennis needs to plan and prepare his own meals, and he is limited by the small kitchenette in his room. Dennis is also anxious about budgeting his spending on essentials and stressful behaviour of his parents of whom he depends on for an allowance.  
 
 **Social confidence:**
 Dennis is slowly working on building the habit of asking lecturers or other students for help, but he still has social anxiety. Dennis has low confidence in his talking and
