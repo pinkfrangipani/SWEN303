@@ -230,12 +230,16 @@ A key part of the scenarios is the involvement of our selected personas. Since w
 
 3. System functionality  
 
-In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must help them in achieving their goals so the scenario can be possible. This means incorporating the relationship between the different features and how the .  
+In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must help them in achieving their goals so the scenario can be possible. This means incorporating the relationship between the different features and how the features will be used by our personas in the system.
 
 
 ## Designs Ideation<a name="ideation"></a>  
-Copy and paste samples of designs from everyone here.  
-Probably label each design and different aspects to refer to different parts, eg. design 1A.  
+
+Individual designs  
+- [Chris](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Chris)
+- [Jane](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Jane/peerwisewireframes.pdf)
+- [Justin](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Justin)
+- [Te Ata]()
 
 
 ## Designs Review<a name="review"></a>    
