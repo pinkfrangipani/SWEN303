@@ -39,10 +39,10 @@ It is also important that the system must assist lecturers that will organise an
 The overall cost to use the SQS would be low, due to the nature of the students handling their own content. There is just the cost of time from the lecturer. This includes the initial setup from inviting students and ongoing frequent moderation. An example of cost-effectiveness is reducing the amount of hours the university must pay tutors. The students should be able to collaborate with any amount of interaction from the lecturer supported by the system itself. This interaction can be minimal to frequent in terms of moderation, inviting new students and feedback in comments.      
 
 ## Personas<a name="personas"></a>
-- [Rebecca Taylor](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/rebecca.md)  
-- [Dennis Casas](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/dennis.md)  
-- [Elizabeth](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/elizabeth.md)  
-- [Steven Ash](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/Steven.md)  
+- [Rebecca Taylor](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/rebecca.md) - Te Ata 
+- [Dennis Casas](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/dennis.md) - Te Ata
+- [Elizabeth](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/elizabeth.md) - Jane  
+- [Steven Ash](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/Steven.md) - Justin  
 
 ### How personas were selected and merged  
 We selected our personas based on a comprehensive discussion, throwing ideas and thoughts back and forth. We mainly selected our personas based on similarity and diversity. To help us make these decisions we created a table of attributes that spanned across all our personas. This table covers their strengths, weaknesses, abilities, and system usage.  
@@ -58,7 +58,8 @@ It was also necessary to focus on differences among our selection. A necessary p
 Can copy and paste scenarios from selected personas and modify them. 
 Maybe one scenario for each persona?  
 
-**Create study question - Personas: Rebecca, Dennis, Elizabeth**
+**Create study question - Personas: Rebecca, Dennis, Elizabeth**    
+From Te Ata
 
 | User                      | System                       |
 |:--------------------------|:-----------------------------|
@@ -75,7 +76,8 @@ Maybe one scenario for each persona?
 | Submit question           |                              |
 |                           | Publish question             |
 
-**Answering study question - Personas: Rebecca, Dennis, Elizabeth**
+**Answering study question - Personas: Rebecca, Dennis, Elizabeth**  
+From Te Ata
 
 | User                                 | System                      |
 |:-------------------------------------|:----------------------------|
@@ -89,6 +91,7 @@ Maybe one scenario for each persona?
 
 
 **Rate study question - Personas: Rebecca, Dennis, Elizabeth**  
+From Te Ata  
 
 | User                                 | System                      |
 |:-------------------------------------|:----------------------------|
@@ -105,6 +108,7 @@ Maybe one scenario for each persona?
 
 
 **Take quiz - Personas: Rebecca, Dennis, Elizabeth**  
+From Te Ata  
 
 | User             | System                      |
 |:-----------------|:----------------------------|
@@ -122,6 +126,7 @@ Maybe one scenario for each persona?
 
 
 **Find study question - Personas: Rebecca, Dennis, Elizabeth**  
+From Te Ata 
 
 | User                  | System                      |
 |:----------------------|:----------------------------|
@@ -138,6 +143,7 @@ Maybe one scenario for each persona?
 
 
 **Add comment to a study question - Personas: Rebecca, Dennis, Elizabeth**  
+From Te Ata  
 
 | User                                 | System                      |
 |:-------------------------------------|:----------------------------|
@@ -150,7 +156,8 @@ Maybe one scenario for each persona?
 | Write comment                        |                             |
 |                                      | Publish comment             |
 
-**Join classroom - Personas: Rebecca, Dennis, Elizabeth** 
+**Join classroom - Personas: Rebecca, Dennis, Elizabeth**  
+From Chris 
 
 | User                                         | System                                 | Moderator      |
 |:---------------------------------------------|:---------------------------------------|:---------------|
@@ -179,25 +186,41 @@ Maybe one scenario for each persona?
 |   |   |
 |   |   |  
 
-**Modify/Remove Question/Answer - Personas: Steven**
+**Modify/Remove Question/Answer - Personas: Steven**  
+From Justin
 
-| User                           | System                              |
-|:-------------------------------|:------------------------------------|
-| Choose classroom               |                                     |
-|                                | Display classroom main menu         |
-| Choose view questions          |                                     |
-|                                | Display question page               |
-| Select a question              |                                     |
-|                                | Display selected question           |
-| Select question/answer removal |                                     |
-|                                | Display removal/modification prompt |
-| Select confirmation            |                                     |
-|                                | Remove/modify question from display |
+| User                                    | System                              |
+|:----------------------------------------|:------------------------------------|
+| Choose classroom                        |                                     |
+|                                         | Display classroom main menu         |
+| Choose view questions                   |                                     |
+|                                         | Display question page               |
+| Select a question                       |                                     |
+|                                         | Display selected question           |
+| Select question/answer to remove/modify |                                     |
+|                                         | Display removal/modification prompt |
+| Select confirmation                     |                                     |
+|                                         | Remove/modify question from display |
 
 ### How scenarios were selected and merged
 - What was our process for selection?
 - What criteria did we base our selection on?
-- Why did we merge our scenarios?
+- Why did we merge our scenarios?  
+
+In our scenarios selection process we based our scenarios on the following criteria:
+
+1. Similarity  
+
+Upon analysing the scenarios we had created, we found that we all had similar scenarios such as answering and creating questions. This meant that we could just pick one and refine it. 
+
+2. Relevance to selected personas needs  
+
+A key part of the scenarios is the involvement of our selected personas. Since we are building the system around them, it is necessary to manage how they will perform in these scenarios. This means selecting and adapting scenarios that will help our selected personas to achieve their goals and needs.  
+
+3. System functionality  
+
+In deciding which scenarios to choose and modify, the system has to be taken into consideration. To meet the needs of our personas, the system must allow help them so the scenario is possible. This means that  
+
 
 ## Designs Ideation<a name="ideation"></a>  
 Copy and paste samples of designs from everyone here.  
