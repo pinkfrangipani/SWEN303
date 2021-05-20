@@ -162,7 +162,6 @@ From Te Ata
 |:-------------------------------------|:-----------------------|
 | Choose classroom                     |                        |
 |                                      | Display classroom      |
-| main menu                            |                        |
 | Choose view other people’s questions |                        |
 |                                      | Display questions page |
 | Choose view answers                  |                        |
@@ -170,21 +169,20 @@ From Te Ata
 | Write comment                        |                        |
 |                                      | Publish comment        |
 
+
 **Join classroom - Personas: Rebecca, Dennis, Elizabeth**  
 From Chris 
 
-| User                                         | System                                 | Moderator      |
-|:---------------------------------------------|:---------------------------------------|:---------------|
-| Search for course by name and/or institution |                                        |                |
-|                                              | Display search results                 |                |
-| Select course                                |                                        |                |
-| Request to join                              |                                        |                |
-|                                              | Send moderator notification of request |                |
-|                                              |                                        | Accept request |
-|                                              | Add user to course granting access     |                |
+| Moderator           | System                          | Student                                                  |
+|:--------------------|:--------------------------------|:---------------------------------------------------------|
+| Enter student email |                                 |                                                          |
+|                     | Generates code                  |                                                          |
+|                     | Send email with code to student |                                                          |
+|                     |                                 | Student enters code from email in classroom page to join |
 
 
-**Ask a general question - Personas: Rebecca, Dennis, Elizabeth**  
+
+**Ask a general question on the forums - Personas: Rebecca, Dennis, Elizabeth**  
 From Chris
 
 | User                  | System                                   |
@@ -192,12 +190,12 @@ From Chris
 | Choose course         |                                          |
 |                       | Display course page, posts and actions   |
 | Make new post         |                                          |
-|                       | Allow for text/media input               |
+|                       | Allow for text input                     |
 | Enter content of post |                                          |
 | Confirm post          |                                          |
 |                       | Add post to list of posts on course page |
 
-**Answer a general question - Personas: Rebecca, Dennis, Elizabeth**  
+**Answer a general question on the forums - Personas: Rebecca, Dennis, Elizabeth**  
 From Chris
 
 | User                   | System                                 |
@@ -205,26 +203,26 @@ From Chris
 | Choose course          |                                        |
 |                        | Display course page, posts and actions |
 | Select post to answer  |                                        |
-|                        | Allow for text/media input             |
+|                        | Allow for text input                   |
 | Enter content of reply |                                        |
 | Confirm reply          |                                        |
 |                        | Add reply to list of replies on post   |
 
-**Modify/Remove Question/Answer - Personas: Steven**  
+**Modify/Remove Question/Comment - Personas: Steven**  
 From Justin
 
-| User                                    | System                              |
-|:----------------------------------------|:------------------------------------|
-| Choose classroom                        |                                     |
-|                                         | Display classroom main menu         |
-| Choose view questions                   |                                     |
-|                                         | Display question page               |
-| Select a question                       |                                     |
-|                                         | Display selected question           |
-| Select question/answer to remove/modify |                                     |
-|                                         | Display removal/modification prompt |
-| Select confirmation                     |                                     |
-|                                         | Remove/modify question from display |
+| User                                     | System                                      |
+|:-----------------------------------------|:--------------------------------------------|
+| Choose classroom                         |                                             |
+|                                          | Display classroom main menu                 |
+| Choose view questions                    |                                             |
+|                                          | Display question page                       |
+| Select a question                        |                                             |
+|                                          | Display selected question                   |
+| Select question/comment to remove/modify |                                             |
+|                                          | Display removal/modification prompt         |
+| Select confirmation                      |                                             |
+|                                          | Remove/modify question/comment from display |
 
 ### How scenarios were selected and merged
 In our scenarios selection process we based our scenarios on the following criteria:
