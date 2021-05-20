@@ -378,3 +378,11 @@ Video goes here.
 - What can we do to make it better?
 - Did we do anything wrong, if so what would we change next time? 
 - What did we learn from this?
+
+Points to cover:
+- We chose to use Justin's design as a base to build off of since it has the closest look and feel to what we wanted. This saved us a lot of time
+- We should have possibly done the heuristics analysis of designs before choosing the design that we were going to use as our base
+
+
+- The prototype has a simple design which is easy to understand and navigate
+- The peerwise logo takes you to the dashboard which is an effective use of space but does require the user to remember that that is how you get back to the dashboard
