@@ -337,7 +337,7 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 | Pros                                                                              | Cons                                            |
 |:----------------------------------------------------------------------------------|:------------------------------------------------|
 | Contains lots of comprehensive features to utilise such as quiz generations and a dedicated general questions section/forums.                                       | Course selection page is a bit busy                |
-| Good use of colours and icon to indicate selection and correctness                | Drop downs on quiz question details are necessary  |
+| Good use of colours and icon to indicate selection and correctness                | Drop downs on quiz question details are unnecessary  |
 | Great use of size and space, makes it very clear and obvious                      | Limited help and documentation                  |
 | Simple colour scheme of blue, white and grey works well                           |                                                 |
 | Lots of user freedom and control with adjusting quiz settings                     |                                                 |
