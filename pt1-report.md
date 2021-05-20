@@ -320,7 +320,7 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 |:----------------------------------------------------------------------------------|:------------------------------------------------|
 | Designs of pages looks modern                                        | Colour choice is a bit odd                |
 | Good use of gradients and shadows | Not visual impairment friendly |
-| Thought has gone into colour separation     | Gamification aspects such as quests, scores, points and leaderboards that encourage repetitive use are outdated (from 2005)                   |
+| Thought has gone into colour separation     | Gamification aspects such as quests, scores, points and leaderboards that encourage repetitive use are outdated (reminiscent of early 2000s)                   |
 | Font choice is good                                             |Poor log out button placement 
 |                   |  Some text are small                                               |
 |                                                                                   | Underlines look like clickable links| 
