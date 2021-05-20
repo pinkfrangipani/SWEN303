@@ -251,6 +251,7 @@ Lastly, we chose Justin's moderator scenario in deleting and modifying questions
 
 
 ## Designs Ideation<a name="ideation"></a>  
+Here is a sample each team member's designs on the question answering page and feature.  
 
 **[Chris](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Chris)**
 
@@ -284,12 +285,38 @@ Lastly, we chose Justin's moderator scenario in deleting and modifying questions
 ## Designs Review<a name="review"></a>    
 To review our designs, we use used a heuristic evaluation to measure the issues in all of our individual designs. We all individually assessed each other's designs using a spreadsheet template containing a list of Nielsen's Heuristics. We focused on the issues as we were striving for key elements that we could improve on our own designs and think of solutions that could remedy the issues. We believe that a key step in creating a combined prototype was to learn from our mistakes first. If we learn from what went wrong in our individual designs, we take one step closer to a better design and a better final prototype.
 
+[Heuristics Evaluation](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/tree/master/heuristics_analysis)
+
 In our spreadsheet we measured issues by one of ten heuristics by Nielsen based on the following:   
 
 - Severity: How big of an issue is it? 
 - Frequency: Is the issue common or not?
 - Persistence: Is the issue a one-time problem or a repeated one?
 - Impact: Will the issue be easy or difficult for users to overcome?  
+
+Here is an overview of what we found in our individual heuristic evaluations in assessing each others designs:
+
+**Chris**
+
+| Pros                                                                                   | Cons                                            |
+|:---------------------------------------------------------------------------------------|:------------------------------------------------|
+| Designs of pages are very clear and simple                                             | Designs does not have any colour                |
+| Pages and layouts are consistent following the style of the content being centred | Courses directory should be less search focused |
+| Design contains a feature of asking general questions in a forum styled page      | Limited help and documentation                  |
+| Font choice and size is very clear                                                     |                                                 |
+| Consistent use of button representations and clickable objects                         |                                                 |
+
+**Jane**
+
+| Pros                                                                                                      | Cons               |
+|:----------------------------------------------------------------------------------------------------------|:-------------------|
+| Great consistency and use of classic iOS theme                                                            | Limited colour use |
+| Good placement of navigation tabs at the bottom for ergonomic thumb placement                        | Misrepresentation of pages according to highlighted navigation pages                   |
+| Indicators for selection/touch are clear                                                                  | Issues in login screen navigation                      |
+| Space use is great with navagation buttons at the bottom, content in the middle and title at the top | Lack of confirmation for selecting an answer                  |
+| Contrast between white and grey background makes the design clear and pleasant to look at                 | Limited help and documentation                   |
+
+
 
 
 ## Prototype<a name="prototype"></a>     
