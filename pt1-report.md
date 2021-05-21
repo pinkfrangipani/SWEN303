@@ -578,7 +578,7 @@ When combining our ideas, each member had to make compromises on their personal 
 - Justin was attached to the idea of the user scoring system/leaderboard, but it was vetoed to keep the scope of the prototype manageable and to conform to modern website design
 
 
-Our prototype has a more modern design than the original PeerWise website with 
+Our prototype has a more modern design than the original PeerWise website with:
 - full colours instead of mostly white
 - gradient background
 - tile-based elements rather than a document with headings
@@ -586,6 +586,14 @@ Our prototype has a more modern design than the original PeerWise website with
 - rounded buttons
 - a forum based on contemporary social media websites
  
+
+Due to time constraints, the full functionality of the proposed design was not realised in the prototype's interactions, and the composition is still unpolished. 
+For example:
+- the 'Settings' and 'Help' that is linked from the dropdown menu next to the profile picture does not have an interaction
+- the different types of buttons aren't consistently coloured the same way, such as the text input fields and the exit buttons are both light blue
+- some elements aren't consistently aligned from page to page, leading them to jump around when the user navigates through the prototype
+- we didn't update the URLs in the browser to reflect the pages we created or the navigational hierarchy of the website
+- the PeerRevise logo acts as a button that takes the user to their dashboard, but this is not indicated to the user, making it so they would have to guess that the logo is a button and where it links to
 
 ### Analysing best and worst aspects of the prototype
 - What was good about the prototype?  
