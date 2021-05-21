@@ -69,7 +69,7 @@ Steven is a lecturer that primarily uses the SQS to provide his students with a 
 Through this selection process, we believe that we found a diverse range of personas but are also general enough to capture a large number of similar users while minimising our biases. We have selected personas with different goals, attitudes and motivations that users may relate to so the SQS can help them and their needs. 
 
 
-## Scenarios/Use cases
+## Scenarios/Use cases<a name="scenarios"></a>
 We have selected multiple use cases to represent our system and the needs of our personas:
 
 **Create question - Personas: Rebecca, Dennis, Elizabeth**    
@@ -246,7 +246,7 @@ This selection process was relatively smooth. Since almost everyone had used ess
 
 We also chose three use cases from Chris' designs, specifically asking/answering general questions and joining a classroom. It was decided that we would incorporate a forum-like page to ask general questions like lecture schedule and course-related admin topics. This was supported by Te Ata's design which included a similar feature.  
 
-Lastly, we chose Justin's moderator scenario in deleting and modifying questions/comments. We converted his long narrative style into a shortened use case. We felt that since we included a lecturer persona, we should also include their scenario so we could demonstrate how the system will help the lecturer persona. 
+Lastly, we chose Justin's moderator scenario in deleting and modifying questions/comments. We converted his long narrative style into a shortened use case. We felt that since we included a lecturer persona, we should also include their scenario so we could demonstrate how the system will help the lecturer's goals and needs. 
 
 
 ## Designs Ideation<a name="ideation"></a>  
@@ -281,6 +281,7 @@ Here is a sample each team member's designs on the question answering page and f
 <img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Te%20Ata/PSYC327_Quiz_question_page_answered.png" width="640" height="875">
 
 
+
 ## Designs Review<a name="review"></a>    
 To review our designs, we use used a heuristic evaluation to measure the issues in all of our individual designs. We all individually assessed each other's designs using a spreadsheet template containing a list of Nielsen's Heuristics. We focused on the issues as we were striving for key elements that we could improve on our own designs and think of solutions that could remedy the issues. We believe that a key step in creating a combined prototype was to learn from our mistakes first. If we learn from what went wrong in our individual designs, we take one step closer to a better design and a better final prototype.
 
@@ -293,7 +294,7 @@ In our spreadsheet we measured issues by one of ten heuristics by Nielsen based 
 - Persistence: Is the issue a one-time problem or a repeated one?
 - Impact: Will the issue be easy or difficult for users to overcome?  
 
-Here is an overview of what we found in our individual heuristic evaluations in assessing each others designs:
+Here is an overview of what we found in our individual heuristic evaluations in assessing each other's designs:
 
 **Chris**
 
@@ -312,7 +313,7 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 | Great consistency and use of classic iOS theme                                                            | Limited colour use |
 | Good placement of navigation tabs at the bottom for ergonomic thumb placement                        | Misrepresentation of pages according to highlighted navigation buttons at the bottom                   |
 | Indicators for selection/touch are clear                                                                  | Issues in login screen navigation                      |
-| Space use is great with navagation buttons at the bottom, content in the middle and title at the top | Lack of confirmation for selecting an answer                  |
+| Space use is great with navigation buttons at the bottom, content in the middle and title at the top | Lack of confirmation for selecting an answer                  |
 | Contrast between white and grey background makes the design clear and pleasant to look at                 | Limited help and documentation                   |
 
 **Justin**
@@ -321,9 +322,9 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 |:----------------------------------------------------------------------------------|:------------------------------------------------|
 | Designs of pages looks modern                                        | Colour choice is a bit odd                |
 | Good use of gradients and shadows | Not visual impairment friendly |
-| Thought has gone into colour separation     | Gamification aspects such as quests, scores, points and leaderboards that encourage repetitive use are outdated (reminiscent of early 2000s)                   |
+| Thought has gone into colour separation     | Gamification aspects such as quests, scores, points and leaderboards that encourage repetitive use are outdated (reminiscent of the early 2000s)                   |
 | Font choice is good                                             |Poor log out button placement 
-|                   |  Some text are small                                               |
+|                   |  Some text is small                                               |
 |                                                                                   | Underlines look like clickable links| 
 |                                                                                   | Limited help and documentation| 
 | | Poor hierarchy flow |
@@ -336,10 +337,11 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 | Pros                                                                              | Cons                                            |
 |:----------------------------------------------------------------------------------|:------------------------------------------------|
 | Contains lots of comprehensive features to utilise such as quiz generations and a dedicated general questions section/forums.                                       | Course selection page is a bit busy                |
-| Good use of colours and icon to indicate selection and correctness                | Drop downs on quiz question details are unnecessary  |
+| Good use of colours and icon to indicate selection and correctness                | Dropdowns on quiz question details are unnecessary  |
 | Great use of size and space, makes it very clear and obvious                      | Limited help and documentation                  |
 | Simple colour scheme of blue, white and grey works well                           |                                                 |
 | Lots of user freedom and control with adjusting quiz settings                     |                                                 |
+
 
 
 ## Prototype<a name="prototype"></a>     
@@ -560,7 +562,7 @@ After confirming deletion by clicking the red delete button again, the lecturer 
 
 
 ## Demonstration Video<a name="video"></a>  
-Video goes here.  
+[Walkthough video of the system](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/final-prototype/VideoWalkthrough.mp4)
 
 
 ## Group Reflection<a name="reflection"></a>  
