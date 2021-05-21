@@ -564,13 +564,6 @@ Video goes here.
 
 
 ## Group Reflection<a name="reflection"></a>  
-### Design merge reflection  
-- How did we get together? 
-- How did we decide and what was the process?  
-- Were our decision technique effective?  
-- What were some difficulties?
-- Did we do anything wrong, if so what would we change next time?    
-- What did we learn from this?
 
 We decided to book a room at campus to meet up once a week to exchange files, decide on the tasks we needed to complete, and allocate these tasks. We used a spreadsheet and a chat group to keep track of our ideas and discussions. As a team, we had to decide what the essential features of PeerWise (PeerRevise) were, so as to avoid convoluting the design with too many features and making the scope of the prototype larger than we could complete within the timeframe. The choosing of and agreement on whose design and personas to use took us longer than was ideal, possibly because we were afraid to appear controlling and bossy, leading us to be too careful in starting anything without listening to all feedback and getting the confirmation from every team member. This meant we were left with a short amount of time before the due date, and had to quickly make decisions on what the prototype would look like and what features it would have. If we had the chance, we would improve on this rushed decision process by doing a formal analysis and heuristic evalution of each other's designs beforehand. 
 
@@ -588,26 +581,12 @@ Our prototype has a more modern design than the original PeerWise website with:
 - rounded buttons
 - a forum based on contemporary social media websites
  
-
 Due to time constraints, the full functionality of the proposed design was not realised in the prototype's interactions, and the composition is still unpolished. 
 For example:
 - the 'Settings' and 'Help' that is linked from the dropdown menu next to the profile picture does not have an interaction
+- the Sort/Filter bar in the Browse Questions pages does not have an interaction
+- the Staff account view does not have all its pages created, and not all of the admin controls have an interaction
 - the different types of buttons aren't consistently coloured the same way, such as the text input fields and the exit buttons are both light blue
 - some elements aren't consistently aligned from page to page, leading them to jump around when the user navigates through the prototype
 - we didn't update the URLs in the browser to reflect the pages we created or the navigational hierarchy of the website
 - the PeerRevise logo acts as a button that takes the user to their dashboard, but this is not indicated to the user, making it so they would have to guess that the logo is a button and where it links to
-
-### Analysing best and worst aspects of the prototype
-- What was good about the prototype?  
-- What was bad about the prototype?
-- What can we do to make it better?
-- Did we do anything wrong, if so what would we change next time? 
-- What did we learn from this?
-
-Points to cover:
-- We chose to use Justin's design as a base to build off of since it has the closest look and feel to what we wanted. This saved us a lot of time
-- We should have possibly done the heuristics analysis of designs before choosing the design that we were going to use as our base
-
-
-- The prototype has a simple design which is easy to understand and navigate
-- The peerwise logo takes you to the dashboard which is an effective use of space but does require the user to remember that that is how you get back to the dashboard
