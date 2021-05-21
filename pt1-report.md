@@ -577,6 +577,7 @@ When combining our ideas, each member had to make compromises on their personal 
 - Te Ata wanted to consolidate in one area as many links to other areas as possible, but it could not be implemented completely without violating the heuristic of aesthetics and minimalism 
 - Justin was attached to the idea of the user scoring system/leaderboard, but it was vetoed to keep the scope of the prototype manageable and to conform to modern website design
 
+Although our own personal opinions for what PeerWise should look like and how it should operate were not always compatible, and all of our ideas couldn't be incorporated into the final prototype, the merging of our designs allowed us to discover the unique features in each other's designs that we wouldn't have come up with individually. 
 
 Our prototype has a more modern design than the original PeerWise website with:
 - full colours instead of mostly white
