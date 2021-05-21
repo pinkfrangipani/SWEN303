@@ -342,12 +342,15 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 
 
 ## Prototype<a name="prototype"></a>     
-### Description  
-Description can be copied and pasted.
+### Description
+ 
 
+### Approach 
+From our designs review, we decided to choose a prototype as a foundation for our revised system. We chose Justin's design to build off because it was a good starting point to combine our designs and ideas. Justin's prototype looked modern and it contained components and layouts that were well fleshed out. Time efficiency was considered in this decision. The assets in the existing prototype were already well made and ready for use, it would be inefficient to restart from zero again. With this choice, we agreed that we would be focusing on a website based system. 
 
-### Interaction flow and hierarchy  
-Show the flow of click-through in the context of scenarios/use cases? 
+Although there were many flaws in Justin's prototype, they were all easily fixable. An example was the flow hierarchy structure in transitioning between different pages and features. The hierarchy structure in the original prototype was not clear in terms of what classroom/course the header buttons referred to. Drop-down boxes were used to select which classroom the user wanted to answer or create questions in which was confusing. A solution to this problem was to have a state where the user would have to enter a classroom. This allowed the removal of drop-down boxes and made the system more user-friendly by removing this complex association with picking a classroom for every feature in the classroom. 
+
+In analysing the hierarchy structure, we decided to rethink the flow of our system. We created the following diagram to describe the architecture of the new system. Through this, we took in the features we wanted, which was represented in the use cases above.    
 
 <img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/project-hierarchy.png" width="942" height="672">
 
