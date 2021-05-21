@@ -410,6 +410,7 @@ This page appears after the user has navigated from the login page. Upon enterin
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/questions%20-%20student%20login.png">
 
 Components of page:
+
 - Nonfunctional filter bar
 - Rectangles represented as questions
 
@@ -442,7 +443,7 @@ After clicking the submit button, the page will be updated to reflect the result
 
 The rating and comment boxes are visible to the user after they have answered the question. The rating box is functional with each star being clickable with the submit rating button.
 
-##### Question creation page
+##### Question creation page and interaction sequence
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator.png">
 
 Components of page:
@@ -468,7 +469,7 @@ After clicking the preview button, the page updates to a question answering page
 
 The question creator interaction sequence ends after the user has clicked the publish question button. This new page displays an updated question browsing page with the newly created question.
 
-##### Start quiz page
+##### Start quiz page and interaction sequence
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/start%20new%20quiz.png">
 
 Components of page:
@@ -518,6 +519,43 @@ Updated components of page:
 On this quiz results page, the user can see what question they got wrong as every numbered question is represented as a green or red box. Green indicating that their answer is correct and red is incorrect. They also can click the icon in the top right of a question to see more information about the question.
 
 Upon clicking the return to browse quizzes button, the interaction sequence ends.
+
+##### Lecturer pages and delete question interaction sequence
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/dashboard%20-%20lecturer.png">
+
+Components of page:
+
+- Boxes showing joined classrooms
+- Nonfunctional join classroom box 
+- Nonfunctional classroom analytics and feed
+
+This interaction sequence is focused on the lecturer's task of moderation. The sequence interaction starts with the lecturer's own dashboard/classrooms page. This page is similar to the students' classroom page except there are classroom analytics and stats to keep track of what kind of activity is occurring with the PeerRevise system. 
+
+There is also a separation of colour themes between students and lecturers views of the system. This was because it was easier to distinguish differences between interactions of students and lecturers during development. This can serve as a reminder to users as they could be a lecturer or a student in different classrooms.
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/questions%20%E2%80%93%20lecturer%20login.png">
+
+Upon clicking the PSYC327 classroom, the lecturer is taken to the questions page to moderate questions. The lecturer selects the first question to look at.
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/lecturer%20view%20-%20modifying-removing.png">
+
+Components of page:
+- Everything from students page
+- Admin operations box
+	* Nonfunctional modify question title button
+	* Nonfunctional modify correct answer button
+	* Nonfunctional modify explanation button
+	* Delete question button
+
+In this interaction sequence, the lecturer decides to delete this question as the topic is no longer being assessed. 
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/lecturer%20view%20-%20modifying-removing%20%E2%80%93%201.png">
+
+Upon clicking the delete question button, the page becomes transparent with a pop-up message appearing in the centre with a blue cancel button and a red delete question button. 
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/lecturer%20question%20deletion%20-%20question%20disappears.png">
+
+After confirming deletion by clicking the red delete button again, the lecturer is taken to the question browsing page. The deleted question is removed from the question browsing page and the interaction sequence ends.
 
 
 ## Demonstration Video<a name="video"></a>  
