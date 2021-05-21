@@ -454,10 +454,19 @@ Components of page:
 - Add explanation text input box
 - Choose topics box
 
-This create question page allows a user to create their own question. This whole page is intractable with each component can be selected or clicked. Unfortunately user input such as typing is currently unsupported by Adobe XD, this means that we had to simulate typing with predetermined input. 
+This create question page allows a user to create their own question. This whole page is intractable with each component that can be selected or clicked. Unfortunately, user input such as typing is currently unsupported by Adobe XD, this means that we had to simulate typing with predetermined input with clicking. 
 
-  
- 
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator%20-%20simulated%20input.PNG">
+
+After the user has clicked all of the components on the page, this is what it looks like. 
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator%20-%20preview.png">
+
+After clicking the preview button, the page updates to a question answering page with a return and publish button. This ensures that the question creator can directly see how it is displayed and that their uploaded image is correct.
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator%20-%20created%20question%20appears.png">
+
+The question creator interaction sequence ends after the user has clicked the publish question button. This new page displays an updated question browsing page with the newly created question.
 
 ## Demonstration Video<a name="video"></a>  
 Video goes here.  
