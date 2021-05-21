@@ -443,8 +443,20 @@ After clicking the submit button, the page will be updated to reflect the result
 The rating and comment boxes are visible to the user after they have answered the question. The rating box is functional with each star being clickable with the submit rating button.
 
 ##### Question creation page
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/answer%20quiz%20question.png">
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator.png">
 
+Components of page:
+
+- Question text input box
+- Add image box
+- Answer selection buttons
+- Save draft, preview and publish buttons
+- Add explanation text input box
+- Choose topics box
+
+This create question page allows a user to create their own question. This whole page is intractable with each component can be selected or clicked. Unfortunately user input such as typing is currently unsupported by Adobe XD, this means that we had to simulate typing with predetermined input. 
+
+  
  
 
 ## Demonstration Video<a name="video"></a>  
