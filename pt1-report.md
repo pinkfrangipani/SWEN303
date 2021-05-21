@@ -457,6 +457,10 @@ Video goes here.
 - Did we do anything wrong, if so what would we change next time?    
 - What did we learn from this?
 
+We decided to book a room at campus to meet up once a week to exchange files, decide on the tasks we needed to complete, and allocate these tasks. We used a spreadsheet and a chat group to keep track of our ideas and discussions. As a team, we had to decide what the essential features of PeerWise (PeerRevise) were, so as to avoid convoluting the design with too many features and making the scope of the prototype larger than we could complete within the timeframe. The choosing of and agreement on whose design and personas to use took us longer than was ideal, possibly because we were afraid to appear controlling and bossy, leading us to be too careful in starting anything without listening to all feedback and getting the confirmation from every team member. This meant we were left with a short amount of time before the due date, and had to quickly make decisions on what the prototype would look like and what features it would have. If we had the chance, we would improve on this rushed decision process by doing a formal analysis and heuristic evalution of each other's designs beforehand. 
+
+When combining our ideas, each member had to make compromises on their personal vision for what PeerWise should be able to do.  
+
 ### Analysing best and worst aspects of the prototype
 - What was good about the prototype?  
 - What was bad about the prototype?
