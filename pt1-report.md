@@ -378,14 +378,32 @@ In analysing the hierarchy structure, we decided to rethink the flow of our syst
 From our heuristics evaluations, clarity plays a major factor in judging how well a design performs. In our approach we used big fonts and a modified colour palette.
 
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/resource%20Board.png">
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/colour-palette.png">
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/final-prototype/designs-images/colour%20palette.png">
 
 Most of the fonts were kept from Justin's original prototype. We felt that these fonts were good enough and there were not any reasons to switch. We did modify the colour palette and scheme to emphasize productivity. From [Shift e-learning](https://www.shiftelearning.com/blog/how-do-colors-influence-learning), shades of blue represent productivity which is a key theme for the system which is dedicated to question-based learning. We made the change to include more shades of blue. I think we were all sceptical about this colour scheme but it eventually grew on us because we looked and worked on the designs for a long period. We will be interested in the results of how users feel during the next part of user testing.   
 
-#### Prototype discussion
+#### Prototype discussion and walkthrough
 
-In this section, key pages will be discussed 
+In this section, key pages with interactions will be discussed. Full coverage of the system will be demonstrated in the video.
 
+Most pages in our design follow a similar layout containing the same header bar. The header bar contains:
+- The PeerRevise logo for returning to the classrooms/dashboard page.
+- A nonfunctional notification indicator.
+- The profile icon which leads to a profile page containing a bio, created questions and answered questions.
+- A nonfunctional (but animated) drop down box containing nonfunctional options for settings, help and logging out. 
+- Selection buttons for browsing questions, creating a question, starting a quiz, and starting a quiz.
+
+We felt that the header bar was an essential component for navigation. In our heuristic evaluations we thought that this header bar was better than a directory path navigation flow. This was because the directory path can be often long and it is difficult to fit this into the page clearly and consistently. The header bar achieves this by having most of the main features at the top of every page, the user does not have to know the path of the pages that they have taken.
+
+##### Classrooms/Dashboard Page
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/dashboard%20-%20student.png">
+
+Components of page:
+- Boxes showing joined classrooms
+- Join classroom box 
+- Pending requests indication
+
+This page appears after the user has navigated from the login page. Upon entering, a selection of classrooms are shown in a light blue boxes. The PSYC327 classroom box is clickable, which is demonstrated by a hover animation where it outlines the box as grey. After clicking the box, the user is transitioned into the PSYC327 classroom where all the features such as question browsing, answering and creating are accessed from.   
 
 ## Demonstration Video<a name="video"></a>  
 Video goes here.  
