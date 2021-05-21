@@ -591,3 +591,6 @@ For example:
 - some elements aren't consistently aligned from page to page, leading them to jump around when the user navigates through the prototype
 - we didn't update the URLs in the browser to reflect the pages we created or the navigational hierarchy of the website
 - the PeerRevise logo acts as a button that takes the user to their dashboard, but this is not indicated to the user, making it so they would have to guess that the logo is a button and where it links to
+
+One of the best parts of our prototype is that we have four interactable sequences for user testing in the next part. We have three for the student archetype with question answering, question creation, and quiz answering. We have one for our lecturer archetype which is question moderation. With these four interactive sequences, we believe that we have enough use cases across two archetypes that generally covers the main aspects of our system. This means that we should have plenty of data to collect to give us a comprehensive review of how good our designs and prototype are.
+
