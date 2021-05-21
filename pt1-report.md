@@ -399,6 +399,7 @@ We felt that the header bar was an essential component for navigation. In our he
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/dashboard%20-%20student.png">
 
 Components of page:
+
 - Boxes showing joined classrooms
 - Nonfunctional join classroom box 
 - Nonfunctional pending requests indication
@@ -420,6 +421,7 @@ The first question is clickable where an interactive sequence is initiated for a
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/answer%20quiz%20question.png">
 
 Components of page:
+
 - Question title and optional question diagram
 - Answer selection boxes
 - Submit and return buttons
@@ -431,6 +433,7 @@ The question answering page contains the question and its multi-choice selection
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/quiz%20question%20results.png">
 
 Updated components of page:
+
 - Rate quality and difficulty box
 - Explanation box
 - Nonfunctional comments and add comment box
