@@ -343,7 +343,23 @@ Here is an overview of what we found in our individual heuristic evaluations in 
 
 ## Prototype<a name="prototype"></a>     
 ### Description
- 
+Our team developed our final click-through prototype with Adobe XD. Our system contains the following layouts and features according to their functionality and intractability. We overestimated our capability in terms of making our desired use case scenarios functional. To remedy this, we picked the most essential to produce an interactive sequence. 
+
+| Pages/features                | Interactability                                       |
+|:------------------------------|:------------------------------------------------------|
+| Homepage                      | Access login page via login button                    |
+| Login                         | Access student dashboard/classrooms via login button  |
+| Student dashboard/classrooms  | Access PSYC327 classroom via PSYC327 classroom button |
+| Browse questions              | Interactive sequence initiated from "What brain slice is this question.".                                                          |
+| Answer question              | Selecting answer and submit buttons are clickable. After submitting, difficulty and quality rating stars are clickable with submit button. Retry and exit buttons are also functional.                                                      |
+| Create questions              | This leads to an interactive sequence where all of the buttons on the page are clickable.                                                       |
+| Forums                        | Not functional                                                      |
+| Starting quiz                 | This leads to an interactive sequence where some of the buttons on the page are clickable.                                                      |
+| Profile                       | Not functional                                                         |
+| Lecturer dashboard/classrooms | Interactive sequence initiated from entering PSYC327 classroom button                                                     |
+| Lecturer question deletion    | This sequence continues after selecting the "What brain slice is this" question and clicking the delete button.                                                      |
+| Lecturer admin page           | Not functional                                                      |
+
 
 ### Approach 
 From our designs review, we decided to choose a prototype as a foundation for our revised system. We chose Justin's design to build off because it was a good starting point to combine our designs and ideas. Justin's prototype looked modern and it contained components and layouts that were well fleshed out. Time efficiency was considered in this decision. The assets in the existing prototype were already well made and ready for use, it would be inefficient to restart from zero again. With this choice, we agreed that we would be focusing on a website based system. 
