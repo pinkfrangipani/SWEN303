@@ -562,7 +562,7 @@ After confirming deletion by clicking the red delete button again, the lecturer 
 
 
 ## Demonstration Video<a name="video"></a>  
-[Walkthough video of the system](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/final-prototype/VideoWalkthrough.mp4)
+[Walkthough video of the system](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/final-prototype/VideoWalkthrough_Final.mp4)
 
 
 ## Group Reflection<a name="reflection"></a>  
