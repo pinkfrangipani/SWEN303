@@ -378,32 +378,71 @@ In analysing the hierarchy structure, we decided to rethink the flow of our syst
 From our heuristics evaluations, clarity plays a major factor in judging how well a design performs. In our approach we used big fonts and a modified colour palette.
 
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/resource%20Board.png">
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/final-prototype/designs-images/colour%20palette.png">
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/colour%20palette.png">
 
 Most of the fonts were kept from Justin's original prototype. We felt that these fonts were good enough and there were not any reasons to switch. We did modify the colour palette and scheme to emphasize productivity. From [Shift e-learning](https://www.shiftelearning.com/blog/how-do-colors-influence-learning), shades of blue represent productivity which is a key theme for the system which is dedicated to question-based learning. We made the change to include more shades of blue. I think we were all sceptical about this colour scheme but it eventually grew on us because we looked and worked on the designs for a long period. We will be interested in the results of how users feel during the next part of user testing.   
 
-#### Prototype discussion and walkthrough
+#### Prototype discussion and walk-through
 
 In this section, key pages with interactions will be discussed. Full coverage of the system will be demonstrated in the video.
 
 Most pages in our design follow a similar layout containing the same header bar. The header bar contains:
 - The PeerRevise logo for returning to the classrooms/dashboard page.
 - A nonfunctional notification indicator.
-- The profile icon which leads to a profile page containing a bio, created questions and answered questions.
-- A nonfunctional (but animated) drop down box containing nonfunctional options for settings, help and logging out. 
+- The profile icon, which leads to a profile page containing a bio, created questions and answered questions.
+- A nonfunctional (but animated) drop-down box containing nonfunctional options for settings, help and logging out. 
 - Selection buttons for browsing questions, creating a question, starting a quiz, and starting a quiz.
 
-We felt that the header bar was an essential component for navigation. In our heuristic evaluations we thought that this header bar was better than a directory path navigation flow. This was because the directory path can be often long and it is difficult to fit this into the page clearly and consistently. The header bar achieves this by having most of the main features at the top of every page, the user does not have to know the path of the pages that they have taken.
+We felt that the header bar was an essential component for navigation. In our heuristic evaluations, we thought that this header bar was better than a directory path navigation flow. This was because the directory path can be often long and it is difficult to fit this into the page clearly and consistently. The header bar achieves this by having most of the main features at the top of every page, the user does not have to know the path of the pages that they have taken.
 
-##### Classrooms/Dashboard Page
+##### Classrooms/dashboard page
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/dashboard%20-%20student.png">
 
 Components of page:
 - Boxes showing joined classrooms
-- Join classroom box 
-- Pending requests indication
+- Nonfunctional join classroom box 
+- Nonfunctional pending requests indication
 
-This page appears after the user has navigated from the login page. Upon entering, a selection of classrooms are shown in a light blue boxes. The PSYC327 classroom box is clickable, which is demonstrated by a hover animation where it outlines the box as grey. After clicking the box, the user is transitioned into the PSYC327 classroom where all the features such as question browsing, answering and creating are accessed from.   
+This page appears after the user has navigated from the login page. Upon entering, a selection of classrooms is shown in light blue boxes. The PSYC327 classroom box is clickable, which is demonstrated by a hover animation where it outlines the box as grey. After clicking the box, the user is transitioned into the PSYC327 classroom where all the features such as question browsing, answering and creating are accessed from.   
+
+##### Questions browsing page
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/questions%20-%20student%20login.png">
+
+Components of page:
+- Nonfunctional filter bar
+- Rectangles represented as questions
+
+This page allows users to search and browse for questions. Each question is displayed with their details such as question name, topics associated, number of times the question has been answered, quality and difficulty ratings given the highlighting of stars and the number of comments, and the author and date created at the top right.
+
+The first question is clickable where an interactive sequence is initiated for answering a question.   
+
+##### Question answering page
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/answer%20quiz%20question.png">
+
+Components of page:
+- Question title and optional question diagram
+- Answer selection boxes
+- Submit and return buttons
+- Question details box
+- Nonfunctional add to quiz box
+
+The question answering page contains the question and its multi-choice selections. These multi-choice selections are functional and change to a different shade of blue, font colour and icon. From our heuristic evaluations, we found that matching a selected colour and an icon is important for supporting users with visual impairment. 
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/quiz%20question%20results.png">
+
+Updated components of page:
+- Rate quality and difficulty box
+- Explanation box
+- Nonfunctional comments and add comment box
+
+After clicking the submit button, the page will be updated to reflect the result of the user's correctness to the question. This is shown by the colour change to green, with the text "Correct!," and alongside a tick icon.
+
+The rating and comment boxes are visible to the user after they have answered the question. The rating box is functional with each star being clickable with the submit rating button.
+
+##### Question creation page
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/answer%20quiz%20question.png">
+
+ 
 
 ## Demonstration Video<a name="video"></a>  
 Video goes here.  
