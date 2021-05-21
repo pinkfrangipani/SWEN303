@@ -372,8 +372,19 @@ In analysing the hierarchy structure, we decided to rethink the flow of our syst
 
 
 ### Prototype Design
-Design goes here.  
-Probably take one of our existing designs and build upon it for time efficiency?  
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/prototype-storyboard-view.PNG">
+
+#### Aesthetics
+From our heuristics evaluations, clarity plays a major factor in judging how well a design performs. In our approach we used big fonts and a modified colour palette.
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/resource%20Board.png">
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/colour-palette.png">
+
+Most of the fonts were kept from Justin's original prototype. We felt that these fonts were good enough and there were not any reasons to switch. We did modify the colour palette and scheme to emphasize productivity. From [Shift e-learning](https://www.shiftelearning.com/blog/how-do-colors-influence-learning), shades of blue represent productivity which is a key theme for the system which is dedicated to question-based learning. We made the change to include more shades of blue. I think we were all sceptical about this colour scheme but it eventually grew on us because we looked and worked on the designs for a long period. We will be interested in the results of how users feel during the next part of user testing.   
+
+#### Prototype discussion
+
+In this section, key pages will be discussed 
 
 
 ## Demonstration Video<a name="video"></a>  
