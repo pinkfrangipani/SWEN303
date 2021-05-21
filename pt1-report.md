@@ -468,6 +468,58 @@ After clicking the preview button, the page updates to a question answering page
 
 The question creator interaction sequence ends after the user has clicked the publish question button. This new page displays an updated question browsing page with the newly created question.
 
+##### Start quiz page
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/start%20new%20quiz.png">
+
+Components of page:
+
+- Nonfunctional Generate and start quiz boxes
+	* Choose quality box
+	* Choose difficulty box
+	* Choose topics box
+	* Choose quiz size/number of question box
+	* Generate and start quiz button
+- Browse quizzes section 
+	* Nonfunctional filter bar
+	* Rectangles represented as quizzes with a start quiz button
+
+The start quiz page allows users to assess themselves with a collection of questions instead of just completing one and finding another. These collection of quizzes are usually the same type according to their topics selected
+
+The generate and start quiz is not demonstrated in this prototype. It is a feature that automatically generates a quiz by putting similar questions together based on the user's preferences and options applied through the boxes. 
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/taking%20a%20quiz.png">
+
+Updated components of page:
+
+- Quiz title
+- Quiz author
+- Quiz number selection and indicator
+- Next question and exit quiz button
+
+Upon clicking the start quiz button on the first quiz in the browse quiz section, the user is brought to a quiz answering page. This page is similar to a single question answering page but it displays a banner of numbers representing each question of the quiz. This provides the user navigation to move between questions and an indicator for the question that they are on. Previous questions have their numbers faded with a line underneath and the current question number is highlighted.
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/taking%20a%20quiz%202.png">
+
+Updated components of page:
+
+- View results button
+
+After the user has reached the last question in the quiz and selected their answer a view results button appears. This takes the user to a new page to view their results and how well they did in the quiz.
+
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/quiz%20results.png">
+
+Updated components of page:
+
+- Results title page with the title of quiz and author
+- Each numbered question box denoting the correctness of the user's answers 
+	* Feedback on user's answers vs actual answers 
+	* A button to access the question
+
+On this quiz results page, the user can see what question they got wrong as every numbered question is represented as a green or red box. Green indicating that their answer is correct and red is incorrect. They also can click the icon in the top right of a question to see more information about the question.
+
+Upon clicking the return to browse quizzes button, the interaction sequence ends.
+
+
 ## Demonstration Video<a name="video"></a>  
 Video goes here.  
 
