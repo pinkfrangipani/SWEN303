@@ -16,6 +16,8 @@
 8. [Demonstration Video](#video)  
 
 9. [Group Reflection](#reflection)  
+
+10. [Usability Testing Plan](#testingplan)
   
 ## Background<a name="background"></a>
 
