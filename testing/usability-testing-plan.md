@@ -19,8 +19,8 @@ After meeting with our testers in our agreed location, we will be giving testers
 
 ## Roles
 Who is doing what
-Communicator
-Notetaker
+Interviewer
+Transcriber
 Recorder
 Timekeeper
 Transcriber of recorder's recording
@@ -35,50 +35,20 @@ We will first introduce the background of our prototype:
 
 ### Testing
 
-| Task | Subtasks | What we say | Intervention |
-|:-----|:---------|:------------|:-------------|
-|      |          |             |              |
-|      |          |             |              |
-|      |          |             |              |
-|      |          |             |              |
-|      |          |             |              |
-|      |          |             |              |
-|      |          |             |              |
-|      |          |             |              |
+| Task                     | Subtasks           | What we say                                 | Intervention                                                               |
+|:-------------------------|:-------------------|:--------------------------------------------|:---------------------------------------------------------------------------|
+| Login                    | Go to login screen | "To start, please login."                   | To go to the login screen, click the login button <Point to login button\> |
+|                          | Login              |                                             | To login, click the login button <Point to login button\>                  |
+|                          |                    |                                             |                                                                            |
+| Select PSYC327 classroom |                    | "Navigate to the PSYC327 classroom."        | To go to the PSYC327 classroom, click the PSYC327 box <Point to entry\>    |
+|                          |                    |                                             |                                                                            |
+| Answer a question        | Select question    | "Could you now select a question to answer" | Select the first question box <Point to question\>                         |
+|                          | Select an answer   | "Please select and submit a answer"         | Click on the answers in the list <Point to an answer>                      |
+|                          | Submit             |                                             | To submit your answer, click on the submit button <Point to submit button> |
 
-[Start with UI on intro screen]
 
-[Task: Login]
 
-Hello. Thank you for helping us test our design. To start, please login.
 
-[Subtask: Go to login screen]
-[Intervention] { To go to the login screen, click the login button <Point to login button> }
-
-[Subtask: Login]
-[Intervention] { To login, click the login button <Point to login button> }
-
-[Task: Select psyc 327]
-
-Could you now go to the psyc327 course page?
-
-[Intervention] { To go to the psyc327 course page, click the psyc327 entry <Point to entry> }
-
-[Task: Answer a question]
-
-Could you now answer a question?
-
-[Subtask: Select question]
-
-[Intervention] { To select a question, click on one of the questions in the list <Point to a question> }
-
-[Subtask: Select an answer]
-
-[Intervention] { To select an answer, click on the answers in the list <Point to an answer> }
-
-[Subtask: Submit]
-
-[Intervention] { To submit your answer, click on the submit button <Point to submit button> }
 
 [Task: Start a quiz]
 
