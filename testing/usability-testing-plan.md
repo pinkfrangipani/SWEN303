@@ -1,30 +1,28 @@
 # Usability Testing Plan
 
-## Methadology
+## Methodology
 How many users and what you are testing
 
-Our system will be tested by 5? SWEN303 students from other participating groups.
-Cognitive walkthrough method?
-How we will meet/schedule the testing process - in person at uni?
+In our Student Questioning System prototype (SQS), we have decided that we will have 1 - 5 users to test. The users that will be testing our prototype are SWEN303 students from another group; Team 16 (Covid Trace 5) which was provided in the suggested pairings given. We plan to conduct our testing in person on campus but will allow flexibility via Zoom if it is not possible for our testers to meet. We aim to gather as many testers as possible to ensure that we have clarity in the feedback to differentiate the weaknesses and strengths in our prototype.   
 
-Process
-Disclosure and informing tester about collection of data
+We are testing the different interaction sequences that relate to the different features and functions in our system. We have defined these interaction sequences as the following:
 
-- how we will use it 
-- how we will collect it
-- How the process will work
+- Logging into the system
+- Selecting, answering and rating a question
+- Starting and completing a quiz
+- Creating a question
 
-Go through background of system - brief
-Start process
-During process, record results
-End of process - debrief
+We have chosen these interaction sequences as they represent the most essential use cases and functions in our system. We are confident that these interactive sequences will allow us to collect feedback on the quality of the testers' experience and interaction with our prototype. These interaction sequences cover a large proportion of our prototype in terms of functionality and navigability.
+
+### Process
+After meeting with our testers in our agreed location, we will be giving testers a copy of the information sheet and consent form. We will inform the testers about our testing process and the prototype with background information. After they have signed the consent form, we will start the testing process with the tester using a laptop that we have provided with the prototype. We will ask the tester to perform our sequence interactions and record their operational data. After they have completed the sequence interactions or we are satisfied, we will interview the testers. We will be asking questions about their experience and feelings of the prototype. When the interview is completed, we will debrief them about the testing process and the prototype, concluding the process.
 
 ## The script
 What you say to the users
 
-Background to the system
-Steps of actions
-Disclosure and informing tester about collection of data
+We will first introduce the background of our prototype:
+
+
 
 ## Roles
 Who is doing what
@@ -52,8 +50,6 @@ Process will involve an overarching interactive sequence and breakdown into subt
 
 Logging into system to classrooms/dashboard
 - Logging into the system
-
-
 
 
 ## Metrics
