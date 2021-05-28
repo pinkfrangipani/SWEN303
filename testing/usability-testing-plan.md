@@ -17,13 +17,6 @@ We have chosen these interaction sequences as they represent the most essential 
 ### Process
 After meeting with our testers in our agreed location, we will be giving testers a copy of the information sheet and consent form. We will inform the testers about our testing process and the prototype with background information. After they have signed the consent form, we will start the testing process with the tester using a laptop that we have provided with the prototype. We will ask the tester to perform our sequence interactions and record their operational data. After they have completed the sequence interactions or we are satisfied, we will interview the testers. We will be asking questions about their experience and feelings of the prototype. When the interview is completed, we will debrief them about the testing process and the prototype, concluding the process.
 
-## The script
-What you say to the users
-
-We will first introduce the background of our prototype:
-
-
-
 ## Roles
 Who is doing what
 Communicator
@@ -32,24 +25,121 @@ Recorder
 Timekeeper
 Transcriber of recorder's recording
 
-## Tasks
-How you are measuring
+## The scripts and tasks
+What you say to the users
 
-We are measuring based on 4 interactive sequences in our prototype.
+### Briefing
 
-Student 
+We will first introduce the background of our prototype:
 
-- Logging into system to classrooms/dashboard
-- Answering a question
-- Starting a quiz
 
-Lecturer
-- Deleting a question
+### Testing
 
-Process will involve an overarching interactive sequence and breakdown into subtasks for each.
+| Task | Subtasks | What we say | Intervention |
+|:-----|:---------|:------------|:-------------|
+|      |          |             |              |
+|      |          |             |              |
+|      |          |             |              |
+|      |          |             |              |
+|      |          |             |              |
+|      |          |             |              |
+|      |          |             |              |
+|      |          |             |              |
 
-Logging into system to classrooms/dashboard
-- Logging into the system
+[Start with UI on intro screen]
+
+[Task: Login]
+
+Hello. Thank you for helping us test our design. To start, please login.
+
+[Subtask: Go to login screen]
+[Intervention] { To go to the login screen, click the login button <Point to login button> }
+
+[Subtask: Login]
+[Intervention] { To login, click the login button <Point to login button> }
+
+[Task: Select psyc 327]
+
+Could you now go to the psyc327 course page?
+
+[Intervention] { To go to the psyc327 course page, click the psyc327 entry <Point to entry> }
+
+[Task: Answer a question]
+
+Could you now answer a question?
+
+[Subtask: Select question]
+
+[Intervention] { To select a question, click on one of the questions in the list <Point to a question> }
+
+[Subtask: Select an answer]
+
+[Intervention] { To select an answer, click on the answers in the list <Point to an answer> }
+
+[Subtask: Submit]
+
+[Intervention] { To submit your answer, click on the submit button <Point to submit button> }
+
+[Task: Start a quiz]
+
+Could you now do a quiz?
+
+[Subtask: Select quiz tab]
+
+[Intervention] { To select the quiz tab, click on the quiz entry in the top bar <Point to quiz entry> }
+
+[Subtask: Start neuroanatamoy quiz]
+
+[Intervention] { To start the neuroanatomy quiz, click the start button for the neuroanatomy quiz <Point to start button> }
+
+[Subtask: Select an answer]
+
+[Intervention] { To select an answer, click on the answer in the list of answers <Point to an entry> }
+
+[Subtask: Complete quiz]
+ 
+[Intervention] { To complete the quiz, click the next button twice <Point to next button> }
+
+[Task: Create a question]
+
+Could you now create a question?
+
+[Subtask: Select create question tab] 
+
+[Intervention] { To open the question creation interface, click the create question entry in the top bar <Point to entry> }
+
+[Subtask: Enter question text]
+
+[Intervention] { To enter the question text, click on the question text textbox <Point to textbox> }
+
+[Subtask:  Enter explanation text]
+
+[Intervention] { To enter the explanation text, click on the explanation textbox <Point to textbox> }
+
+[Subtask: Select suggested answer]
+
+[Intervention] { To select the suggested answer, click on an answer entry in the list of answers <Point to entry> }
+
+[Subtask: Publish question]
+
+[Intervention] { To publish the question, click on the publish button <Point to publish button> }
+
+[Task: Browse forum]
+
+Could you now browse the forum?
+
+[Subtask: Select forum tab]
+
+[Intervention] { To select the forum tab, click on the forum entry in the top bar <Point to forum entry> }
+
+[Task: View available courses ]
+
+[Subtask: Go to dashboard or click dropdown]
+
+[Intervention] { To return to the dashboard, click on the peerwise logo <Point to logo> }
+
+
+### Debriefing
 
 
 ## Metrics
