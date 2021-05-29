@@ -92,6 +92,7 @@ After the user has finished testing the prototype on our laptop, we will intervi
 - What are some parts of the prototype that you thought it was easy or clear?
 - If the prototype was fully functional, would you use this system for revising course material? Why or why not?
 
+We will record this information separately according to everyone's roles and combine our data into a private and confidential document.
 
 ## Usability Goals
 *What is the level you are happy with on the above metrics?*
