@@ -35,79 +35,30 @@ We will first introduce the background of our prototype:
 
 ### Testing
 
-| Task                     | Subtasks           | What we say                                 | Intervention                                                               |
-|:-------------------------|:-------------------|:--------------------------------------------|:---------------------------------------------------------------------------|
-| Login                    | Go to login screen | "To start, please login."                   | To go to the login screen, click the login button <Point to login button\> |
-|                          | Login              |                                             | To login, click the login button <Point to login button\>                  |
-|                          |                    |                                             |                                                                            |
-| Select PSYC327 classroom |                    | "Navigate to the PSYC327 classroom."        | To go to the PSYC327 classroom, click the PSYC327 box <Point to entry\>    |
-|                          |                    |                                             |                                                                            |
-| Answer a question        | Select question    | "Could you now select a question to answer" | Select the first question box <Point to question\>                         |
-|                          | Select an answer   | "Please select and submit a answer"         | Click on the answers in the list <Point to an answer>                      |
-|                          | Submit             |                                             | To submit your answer, click on the submit button <Point to submit button> |
-
-
-
-
-
-[Task: Start a quiz]
-
-Could you now do a quiz?
-
-[Subtask: Select quiz tab]
-
-[Intervention] { To select the quiz tab, click on the quiz entry in the top bar <Point to quiz entry> }
-
-[Subtask: Start neuroanatamoy quiz]
-
-[Intervention] { To start the neuroanatomy quiz, click the start button for the neuroanatomy quiz <Point to start button> }
-
-[Subtask: Select an answer]
-
-[Intervention] { To select an answer, click on the answer in the list of answers <Point to an entry> }
-
-[Subtask: Complete quiz]
- 
-[Intervention] { To complete the quiz, click the next button twice <Point to next button> }
-
-[Task: Create a question]
-
-Could you now create a question?
-
-[Subtask: Select create question tab] 
-
-[Intervention] { To open the question creation interface, click the create question entry in the top bar <Point to entry> }
-
-[Subtask: Enter question text]
-
-[Intervention] { To enter the question text, click on the question text textbox <Point to textbox> }
-
-[Subtask:  Enter explanation text]
-
-[Intervention] { To enter the explanation text, click on the explanation textbox <Point to textbox> }
-
-[Subtask: Select suggested answer]
-
-[Intervention] { To select the suggested answer, click on an answer entry in the list of answers <Point to entry> }
-
-[Subtask: Publish question]
-
-[Intervention] { To publish the question, click on the publish button <Point to publish button> }
-
-[Task: Browse forum]
-
-Could you now browse the forum?
-
-[Subtask: Select forum tab]
-
-[Intervention] { To select the forum tab, click on the forum entry in the top bar <Point to forum entry> }
-
-[Task: View available courses ]
-
-[Subtask: Go to dashboard or click dropdown]
-
-[Intervention] { To return to the dashboard, click on the peerwise logo <Point to logo> }
-
+| Task                     | Subtasks                   | What we say                                             | Intervention - what we say and do                                           |
+|:-------------------------|:---------------------------|:--------------------------------------------------------|:----------------------------------------------------------------------------|
+| Login                    | Go to login screen         | "To start, please login."                               | To go to the login screen, click the login button <Point to login button\>  |
+|                          | Login                      |                                                         | To login, click the login button <Point to login button\>                   |
+|                          |                            |                                                         |                                                                             |
+| Select PSYC327 classroom |                            | "Navigate to the PSYC327 classroom."                    | To go to the PSYC327 classroom, click the PSYC327 box <Point to entry\>     |
+|                          |                            |                                                         |                                                                             |
+| Answer a question        | Select question            | "Could you now select a question to answer?"            | Select the first question box <Point to question\>                          |
+|                          | Select an answer           | "Please select and submit a answer"                     | Click on the answers in the list <Point to an answer\>                      |
+|                          | Submit                     |                                                         | To submit your answer, click on the submit button <Point to submit button\> |
+|                          | Rate question              | "Please rate the question and continue"                 | Click the difficulty and quality stars. Click the rate button to submit.    |
+|                          |                            |                                                         |                                                                             |
+| Start a quiz             | Select quiz tab            | "Can you navigate to the quiz tab?"                     | Click on the quiz entry in the top header <Point to quiz entry\>            |
+|                          | Start neuroanatamoy quiz   | "Can you start the neuroanatomy quiz"                   | Click the start button for the neuroanatomy quiz <Point to start button\>   |
+|                          | Answer the questions       | Same as Answer a question sequence                      | Same as Answer a question sequence                                          |
+|                          |                            |                                                         |                                                                             |
+| Create a question        | Select create question tab | "Navigate to the question creator to create a question" | Click the create question button in the header <Point to create question\>  |
+|                          | Enter question title text  | "Please input the shown fields in the question"         | Click the write question here box <Point to textbox\>                       |
+|                          | Enter an image             |                                                         | Click the add image button <Point to add question button\>                  |
+|                          | Enter multi-choice answers |                                                         | Click the write answers here buttons <Point to write questions button\>     |
+|                          | Select suggested answer    |                                                         | Click the select as answer icon <Point to icon\>                            |
+|                          | Enter explanation text     |                                                         | Click the explanation text box <Point to explain question box\>             |
+|                          | Enter relevant topics      |                                                         | Click the type topics here box and the add button <Point to topics box\>    |
+|                          | Publish question           |                                                         | Click the publish question button <Point to publish question button\>       |
 
 ### Debriefing
 
