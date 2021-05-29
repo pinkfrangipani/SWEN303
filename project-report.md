@@ -1,6 +1,9 @@
-# Project - Pt1 Prototyping Report  
+# Project Report
 
 ## Table of Contents
+
+[Part 1: Prototyping](#pt1)
+
 1. [Background](#background)  
 
 2. [Personas](#personas)  
@@ -17,7 +20,21 @@
 
 9. [Group Reflection](#reflection)  
 
+  
+[Part 2: Testing and Reflections](#pt2)
+
 10. [Usability Testing Plan](#testingplan)
+  
+11. [Usability Test Results](#results)  
+  
+12. [Updated prototype based on user testing](#updates)
+  
+13. [Usability Test Discussion](#discussion)
+
+14. [Individual reflections](#reflections)
+
+
+# Pt1 - Prototyping <a name="pt1"></a>
   
 ## Background<a name="background"></a>
 
@@ -597,3 +614,20 @@ For example:
 
 One of the best parts of our prototype is that we have four interactable sequences for user testing in the next part. We have three for the student archetype with question answering, question creation, and quiz answering. We have one for our lecturer archetype which is question moderation. With these four interactive sequences, we believe that we have enough use cases across two archetypes that generally covers the main aspects of our system. This means that we should have plenty of data to collect to give us a comprehensive review of how good our designs and prototype are.
 
+# Pt2 - User Testing and Reflections <a name="pt2"></a>
+
+## Usability Testing Plan  
+
+[Usability testing plan document](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/testing/usability-testing-plan.md)
+
+  
+## Usability Test Results  
+
+  
+## Updated prototype based on user testing  
+  
+  
+## Usability Test Discussion  
+
+
+## Individual reflections  
