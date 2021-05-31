@@ -21,8 +21,8 @@ After meeting with our testers in our agreed location, we will be giving testers
 *Who is doing what*		
 
 Interviewer - Communicating to the user and conducting the end interview.
-Transcriber - Writing what the user does.
-Recorder    - Writing/recording what the user said.
+Transcriber - Writing what the user said.
+Recorder    - Writing/recording what the user does.
 Timekeeper  - Tracking the time and writing time taken for the user to complete tasks.
 
 ## The Script and Tasks
