@@ -46,6 +46,8 @@ process, we will interview you on your experience and ask further questions. Aft
 ### Testing
 During this testing process where the user is on the laptop testing our prototype, we will direct the tester through our prototype. We have created a table with the following; a task and its subtasks that the user will attempt to complete, what we will say to direct the user to attempt the task, and what we will say during an intervention where a user gets stuck.
 
+We will intervene after the user has gone 30 seconds without completing the subtask
+
 | Task              | Subtasks                   | What we say                                             | Intervention - what we say and do                                              |
 |:------------------|:---------------------------|:--------------------------------------------------------|:-------------------------------------------------------------------------------|
 | Login             | Go to login screen         | "To start, please login."                               | "To go to the login screen, click the login button." <Point to login button\>  |
