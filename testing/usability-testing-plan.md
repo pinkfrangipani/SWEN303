@@ -40,7 +40,7 @@ Our prototype is a Student Questioning System (SQS), named PeerRevise, that is t
 question-based learning. Our goal is to receive as much feedback as possible to improve our prototype. The system provides three main features that help 
 students revise, the features are; browsing and answering questions, starting a quiz which is a collection of questions, and creating a question. You will 
 be testing these features in the prototype. This will be done on our laptop and we will communicate what you will need to do. At the end of the testing 
-process, we will interview you on your experience and ask further questions. The interviewer will not answer questions you ask during the testing. You also must not dicuss the testing with your other group members until your whole group has been tested. After this, the testing is completed and you will be free to go.
+process, we will interview you on your experience and ask further questions. The interviewer will not answer questions you ask during the testing. You also must not discuss the testing with your other group members until your whole group has been tested. After this, the testing is completed and you will be free to go.
 ```
 
 ### Testing
@@ -70,6 +70,7 @@ We will intervene after the user has gone 30 seconds without completing the subt
 |                   | Select suggested answer    |                                                         | Click the select as answer icon. <Point to icon\>                              |
 |                   | Enter explanation text     |                                                         | Click the explanation text box. <Point to explain question box\>               |
 |                   | Enter relevant topics      |                                                         | Click the type topics here box and the add button. <Point to topics box\>      |
+|                   | Preview question created   | "Please preview and submit the question"                | Click the preview button <Point to preview button\>                            |
 |                   | Publish question           |                                                         | Click the publish question button. <Point to publish question button\>         |
 
 
