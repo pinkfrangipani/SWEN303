@@ -621,11 +621,14 @@ One of the best parts of our prototype is that we have four interactable sequenc
 [Usability testing plan document](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/testing/usability-testing-plan.md)
 
   
-## Usability Test Results  
+## Usability Test Results
 
   
 ## Updated prototype based on user testing  
-  
+1. Quiz - separating generation quiz + generating a quiz on different pages, too much information on quiz page
+2. Question creator - too much information (fix with and order)
+3. Question answering - suggestion ignored with big sizes which required the user to scroll downwards because of clarity and largness
+4. Answer question - ratings starts? prototype issue?
   
 ## Usability Test Discussion  
 
