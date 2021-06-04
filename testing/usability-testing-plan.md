@@ -20,10 +20,13 @@ After meeting with our testers in our agreed location, we will be giving testers
 ## Roles
 *Who is doing what*		
 
-Interviewer - Communicating to the user and conducting the end interview.
-Transcriber - Writing what the user said.
-Recorder    - Writing/recording what the user does.
-Timekeeper  - Tracking the time and writing time taken for the user to complete tasks.
+| Role        | Responsibilities                                                         | Assigned Team Member |
+|:------------|:-------------------------------------------------------------------------|:---------------------|
+| Interviewer | Communicating to the user and conducting the end interview.              | Jane                 |
+| Transcriber | Writing what the user said.                                              | Te Ata               |
+| Recorder    | Writing/recording what the user does.                                    | Chris                |
+| Timekeeper  | Tracking the time and writing time taken for the user to complete tasks. | Justin               |
+
 
 ## The Script and Tasks
 *What will you say to the user and what we are testing?*
@@ -46,7 +49,7 @@ process, we will interview you on your experience and ask further questions. The
 ### Testing
 During this testing process where the user is on the laptop testing our prototype, we will direct the tester through our prototype. We have created a table with the following; a task and its subtasks that the user will attempt to complete, what we will say to direct the user to attempt the task, and what we will say during an intervention where a user gets stuck.
 
-We will intervene after the user has gone 30 seconds without completing the subtask
+We will intervene after the user has gone 30 seconds without completing the subtask or directly asks for help.
 
 | Task              | Subtasks                   | What we say                                             | Intervention - what we say and do                                              |
 |:------------------|:---------------------------|:--------------------------------------------------------|:-------------------------------------------------------------------------------|
