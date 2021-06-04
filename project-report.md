@@ -19,9 +19,9 @@
 8. [Demonstration Video](#video)  
 
 9. [Group Reflection](#reflection)  
-
   
-[Part 2: Testing and Reflections](#pt2)
+  
+[Part 2: User Testing](#pt2)
 
 10. [Usability Testing Plan](#testingplan)
   
@@ -30,10 +30,8 @@
 12. [Updated prototype based on user testing](#updates)
   
 13. [Usability Test Discussion](#discussion)
-
-14. [Individual reflections](#reflections)
-
-
+  
+  
 # Pt1 - Prototyping <a name="pt1"></a>
   
 ## Background<a name="background"></a>
@@ -614,23 +612,198 @@ For example:
 
 One of the best parts of our prototype is that we have four interactable sequences for user testing in the next part. We have three for the student archetype with question answering, question creation, and quiz answering. We have one for our lecturer archetype which is question moderation. With these four interactive sequences, we believe that we have enough use cases across two archetypes that generally covers the main aspects of our system. This means that we should have plenty of data to collect to give us a comprehensive review of how good our designs and prototype are.
 
-# Pt2 - User Testing and Reflections <a name="pt2"></a>
+# Pt2 - User Testing <a name="pt2"></a>
 
-## Usability Testing Plan  
+## Usability Testing Plan <a name="testingplan"></a>  
 
 [Usability testing plan document](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/testing/usability-testing-plan.md)
 
   
-## Usability Test Results
+## Usability Test Results <a name="results"></a>
 
-  
-## Updated prototype based on user testing  
+### Time Taken
+
+| Task              | Subtasks                   | User 1 - Time Taken (Minutes/Seconds/Milliseconds) | User 2 - Time Taken | User 3 - Time Taken | Mean Time Taken |
+|:------------------|:---------------------------|:---------------------------------------------------|:--------------------|:--------------------|:----------------|
+| Login             | Go to login screen         | 00:04.44                                           | 00:03.40            | 00:03.21            | 00:03.68        |
+|                   | Login                      | 00:05.25                                           | 00:04.74            | 00:06.28            | 00:05.42        |
+|                   | Select PSYC327 classroom   | 00:02.76                                           | 00:06.32            | 00:05.94            | 00:05.01        |
+|                   |                            |                                                    |                     |                     |                 |
+| Answer a question | Select question            | 00:07.69                                           | 00:14.69            | 00:08.56            | 00:10.31        |
+|                   | Select an answer           | 00:10.37                                           | 00:11.61            | 00:11.51            | 00:11.16        |
+|                   | Submit                     | 00:15.05                                           | 00:18.19            | 00:18.55            | 00:17.26        |
+|                   | Rate question              | 00:05.56                                           | 00:14.37            | 00:07.04            | 00:08.99        |
+|                   |                            |                                                    |                     |                     |                 |
+| Start a quiz      | Select quiz tab            | 00:05.50                                           | 00:14.98            | 00:14.3             | 00:11.59        |
+|                   | Start neuroanatomy quiz    | 00:10.19                                           | 00:12.45            | 00:09.21            | 00:10.61        |
+|                   | Answer the questions       | 00:11.85                                           | 00:10.96            | 00:07.76            | 00:10.19        |
+|                   |                            |                                                    |                     |                     |                 |
+| Create a question | Select create question tab |                                                    |                     |                     |                 |
+|                   | Enter question title text  |                                                    |                     |                     |                 |
+|                   | Enter an image             |                                                    |                     |                     |                 |
+|                   | Enter multi-choice answers |                                                    |                     |                     |                 |
+|                   | Select suggested answer    |                                                    |                     |                     |                 |
+|                   | Enter explanation text     |                                                    |                     |                     |                 |
+|                   | Enter relevant topics      |                                                    |                     |                     |                 |
+|                   | Preview question created   |                                                    |                     |                     |                 |
+|                   | Publish question           |                                                    |                     |                     |                 |
+|                   | All the above              | 00:45.35                                           | 00:54.27            | 02.09.35            | 01:25.01        |
+
+### Recorded Actions
+
+| Task:      | User 1 Actions                 | User 2 Actions                            | User 3 Actions                    |
+|:-----------|:-------------------------------|:------------------------------------------|:----------------------------------|
+| Login      | Clicked on login               | login                                     | login                             |
+|            | email                          | email, password                           | email                             |
+|            | password                       | login                                     | pass                              |
+|            | login                          |                                           | login                             |
+|            |                                | psyc class                                |                                   |
+| Answer     | psyc class                     | clicks 2nd then first                     | psyc class                        |
+|            | clicked question               | selects a.                                | 2nd q (non-functional)            |
+|            | selected a.                    | hovers over browse q's                    | 1st q                             |
+|            | submit                         | submit                                    | a.                                |
+|            | rate quality 4                 | rate quality 4                            | submit                            |
+|            | rate diff 5                    | rate diff 3                               | rate quality 5                    |
+|            |                                |                                           | rate diff 5                       |
+|            |                                |                                           | scrolled to comments              |
+|            |                                |                                           | browse questions                  |
+|            |                                |                                           |                                   |
+| Start quiz | hovered log out                | scrolls down                              | star a quiz                       |
+|            | clicked psyc dropdown          | start a quiz                              | start quiz                        |
+|            | start a quiz                   | start quiz                                | selected c.                       |
+|            | start quiz                     | selected d.                               | next                              |
+|            | selected c.                    | next                                      | selected b.                       |
+|            | next                           | selected c.                               | see results                       |
+|            | select b.                      | see results                               |                                   |
+|            | see results                    |                                           |                                   |
+|            |                                |                                           |                                   |
+| Create Q   | create question                | create question                           | create question                   |
+|            | all areas selected and a, c, d | image                                     | clicked question twice (confused) |
+|            | preview                        | selected a.                               | selected a.                       |
+|            | publish                        | selected b.                               | publish                           |
+|            |                                | create question                           | intervene                         |
+|            |                                | selected d.                               | image                             |
+|            |                                | re clicked a bunch to set them as correct | publish                           |
+|            |                                | caption                                   | intervene                         |
+|            |                                | topics                                    | explanation text                  |
+|            |                                | preview                                   | selected a,b,c                    |
+|            |                                | publish                                   | preview                           |
+|            |                                |                                           | publish                           |
+
+### Transcript and Interviews
+
+#### User 1
+
+##### During Testing
+
+This looks really flash (the home page)
+This mouse is fast
+What class, sorry? (PSYC327)
+I am not sure if I clicked it
+Depends if its meant to do something more than that (rate and submit button)
+It’s changing colour 
+Sorry? (navigate to question creator)
+
+#### During Interview
+
+Do you have any questions about the prototype?
+No
+
+Tell us how did you feel when you were testing the prototype?
+Really good, felt like it’s a perfect system
+
+On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.
+4, 4 and a half
+
+What are some parts of the prototype that you thought it was difficult to do or was not clear?
+This is probably not part of the prototype, the mouse settings
+
+What are some parts of the prototype that you thought it was easy or clear?
+Yes, just the general layout, and the straightforward headings
+
+If the prototype was fully functional, would you use this system for revising course material? Why or why not?
+Yes, if someone wrote the questions for me, like the lecturer, not if it was me just because it is time consuming, 
+Definitely use it if the other class members 
+You guys did a really good job
+
+#### User 2
+
+##### During Testing
+
+(no speech)
+
+#### During Interview
+
+Do you have any questions about the prototype?
+No, seems pretty straightfoward
+
+Tell us how did you feel when you were testing the prototype?
+Um, I felt curious, in some places I felt a little confused, but I thought that it was more to do with that it was just a prototype, that the interactions weren’t fully implemented, but I got the general gist of it, 
+I felt good, mostly good
+
+On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.
+I’d say 4
+
+What are some parts of the prototype that you thought it was difficult to do or was not clear?
+Um, I thought that, It wasn’t entirely clear when creating a questions, you shouldn’t be able to 
+When editing the text, it shouldn’t be possible to select the answer, because its easy to select the wrong one
+I felt like the questions could have been smaller so that they fit on one page, instead of needing to scroll down, cause I didn’t see them initially
+All the options on one screen
+
+What are some parts of the prototype that you thought it was easy or clear?
+I thought the way that you can answer and browse questions was clear
+I thought the creation, browsing, the quiz, it was clear most of the time
+I liked everything else aside from those (two that were unclear)
+
+If the prototype was fully functional, would you use this system for revising course material? Why or why not?
+I would, with the caveat that it would have to be widely used, if it was adopted by teachers or tutors as well as students, it would be a good platform because there would already be questions
+If there wasn’t much content it wouldn’t be very useful
+
+#### User 3
+
+##### During Testing
+
+Okay, cool (logging in)
+Oh, I see (answering a question)
+Rate a question? (checking what Jane said)
+Oh okay (rating the question)
+Sorry, could you repeat that? (Please input the shown fields)
+Oh I’ve messed up
+I’m not sure what you mean by shown fields
+Ah yep (click the show image button)
+I’m struggling with this, sorry
+I’m not sure what I’m meant to achieve, sorry
+Ah okay so you’ve put a picture in
+
+#### During Interview
+
+Do you have any questions about the prototype?
+None that come to mind
+
+Tell us how did you feel when you were testing the prototype?
+Quite calm and relaxed, bit unsure what to do at the last part, it was unclear
+
+On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.
+4 It’s definitely more pleasant to navigate than the old PeerWise, it wasn’t perfect obviously, 
+Maybe making the create a question part more immediately obvious might make it
+
+What are some parts of the prototype that you thought it was difficult to do or was not clear?
+Create a question was unclear what I was doing, but I did gloss over it, I’m not the best at taking in a lot of information at once
+If I was feeling more focused 
+
+What are some parts of the prototype that you thought it was easy or clear?
+The starting quiz part, it was quite cool, a big start button where you’d expect it to be, 
+The cards at the top it and slides was a lot of information at once, 
+Generate and browsing, my brain was expecting just browsing quizzes, maybe make generation a separate thing
+
+If the prototype was fully functional, would you use this system for revising course material? Why or why not?
+Personally, if I did revise, I would use it, but personally I don’t revise or do assignments, but someone who is into that I’d imagine it would be quite a useful tool 
+
+
+## Updated prototype based on user testing <a name="updates"></a>
 1. Quiz - separating generation quiz + generating a quiz on different pages, too much information on quiz page
 2. Question creator - too much information (fix with and order)
 3. Question answering - suggestion ignored with big sizes which required the user to scroll downwards because of clarity and largness
 4. Answer question - ratings starts? prototype issue?
   
-## Usability Test Discussion  
-
-
-## Individual reflections  
+## Usability Test Discussion  <a name="discussion"></a>
