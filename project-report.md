@@ -621,6 +621,12 @@ One of the best parts of our prototype is that we have four interactable sequenc
   
 ## Usability Test Results <a name="results"></a>
 
+In our user testing, we tested three users from our suggested pairing group.  
+  
+During this process there were a few issues that may have caused inaccuracies with our results. The recorded times are inaccurate of the users' time of each completed substask. This is because some substasks occurred too quickly which caused some delay in the timekeeper's reaction time. This happened frequently in the last task which was question creation. In the question creation task, each time was recorded from the first substask to the end of the last substask. An average time for each substask was calculated by dividing the time taken for the total task divided by the nine subtask. Time was also counted when instructions were given between tasks and substasks. This does not represent the true time taken as users would pause and take time to interpret the question before actually moving the mouse and interacting with the prototype.  
+  
+A factor that many have caused further inaccuracies in our results was the way we set up the laptop which contained the prototype. We decided to use a mouse instead of the laptop trackpad for consistency. We failed to notice that the mouse was too sensitive for one of our users. We did not have a choice but to keep going as we wanted to preserve and record the users' initial experience.  
+
 ### Time Taken
 
 | Task              | Subtasks                   | User 1 - Time Taken (Minutes/Seconds/Milliseconds) | User 2 - Time Taken | User 3 - Time Taken | Mean Time Taken |
@@ -647,7 +653,11 @@ One of the best parts of our prototype is that we have four interactable sequenc
 |                   | Enter relevant topics      |                                                    |                     |                     |                 |
 |                   | Preview question created   |                                                    |                     |                     |                 |
 |                   | Publish question           |                                                    |                     |                     |                 |
-|                   | All the above              | 00:45.35                                           | 00:54.27            | 02.09.35            | 01:25.01        |
+|                   | All the above              | 00:45.35                                           | 00:54.27            | 02:09.35            | 01:25.01        |
+|                   | Create Q subtask avg       | 5.04 secs                                          | 6.03 secs           | 13.93 secs          | 8.33 secs       |
+|                   |                            |                                                    |                     |                     |                 |
+| Total Time        |                            | 1.97 minutes                                       | 2.77 minutes        | 3.63 minutes        | 2.82 minutes    |
+
 
 ### Recorded Actions
 
@@ -799,35 +809,57 @@ Generate and browsing, my brain was expecting just browsing quizzes, maybe make 
 If the prototype was fully functional, would you use this system for revising course material? Why or why not?  
 Personally, if I did revise, I would use it, but personally I don’t revise or do assignments, but someone who is into that I’d imagine it would be quite a useful tool   
 
+### Issues
+
+Through analysing our usability test results, we saw the following key points that we could update our prototype with:
+
+**1. Quiz feature - Too much information on a single page**  
+  
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/6  
+  
+Severity Rating: 2 - Minor usability problem: fixing this should be given low priority  
+  
+An issue we found was that users were having difficulty in interpreting the quiz page and knowing the distinction between quiz generation and browsing pre-made quizzes. This was because the quiz generation page was a bit too busy with the question generation at the top and question browsing at the bottom. During testing, we were only testing for quiz browsing and selection. This was actually indirectly testing the user in following instructions rather than utilising the system itself. This meant that we had to separate these two quiz related functions separately so we test the system and not the user.  
+
+**2. Question creator - Too much information and steps**
+  
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/7  
+  
+Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
+  
+Through the interviews and testing conducted, we found that users were confused about the features and steps in order to create a question. The question interaction sequence asks the user to enter a title, add an image, enter answers, select an answer, enter an explanation, add topics, and submit to create a question. From this, we could see that the users could not differentiate the different components in the layout of the page correlating to a single step in creating a question. This ultimately confused some of our users which resulted in a long pause where an intervention for help was required.  
+
+**3. Answer question - Rating stars not being properly utilised**  
+  
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/8  
+  
+Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
+  
+A key issue we saw was that users were selecting the ratings wrongly during question answering. This was when they have submitted the answer and were told to rate the difficulty and quality ratings by clicking the stars. There were no visible confusion or response from the users in this task which meant that they did not cognitively know that they were doing the task wrongly. The correct way to do this task was to select all the stars up to the user's desired rating, eg. rating the question 4 stars would require the first 4 stars to be clicked and the last one to be empty, users would click the 4th star by itself and submit it. This issue was originally an Adobe XD limitation where the prototyping tool could not control selected states between the different stars.
+
+**4. Question answering - Have to scroll down the page to find submit button**
+  
+Severity Rating: 1 - Cosmetic problem only: need not be fixed unless extra time is available on the project  
+  
+We think that this issue is a cosmetic problem. To solve this, we will have to re-scale the question answering page which voids one of our goals which is clarity and use of space. This would potentially clutter the page make it too hard to visually process just like the other two issues listed here. 
+
 
 ## Updated prototype based on user testing <a name="updates"></a>
 
-Through analysing our usability test results. We saw three key points that we could update our prototype with and made issues on the GitLab repo. :
-
 ### 1. Quiz feature - Too much information on a single page  
-
-Severity Rating: 2 - Minor usability problem: fixing this should be given low priority  
-
-https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/6  
-
-- An issue we found was that users were having difficulty in interpreting the quiz page and knowing the distinction between quiz generation and browsing pre-made quizzes. This was because the quiz generation page was a bit too busy with the question generation at the top and question browsing at the bottom. During testing, we were only testing for quiz browsing and selection. This was actually indirectly testing the user in following instructions rather than utilising the system itself. This meant that we had to separate these two quiz related functions separately so we test the system and not the user.  
-
+  
 - A solution we made to separate these two features was to hide the quiz generation functions but leave the title visible with a functional dropdown icon. This would help the user to direct themselves to the quiz browsing section instead of focusing on generating a question.  
 
 Before:  
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/start%20new%20quiz.png">
   
 After:  
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/quiz-dropdown.gif">
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/quiz-dropdown.gif">  
+  
+This update benefits the project as it separates the quiz generation and browsing features, reducing the number of visual stimuli and processing a user must go through.
 
 ### 2. Question creator - Too much information and steps  
-
-Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
   
-https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/7  
-
-- Through the interviews and testing conducted, we found that users were confused about the features and steps in order to create a question. The question interaction sequence asks the user to enter a title, add an image, enter answers, select an answer, enter an explanation, add topics, and submit to create a question. From this, we could see that the users could not differentiate the different components in the layout of the page correlating to a single step in creating a question. This ultimately confused some of our users which resulted in a long pause where an intervention for help was required.  
-
 - A solution we made was to add functional dropdown icons to the add question title, add image, and add answers sections. Upon entering the page the titles are visible but further functionalities are hidden until the user selects the dropdown icon. This helped to reduce the amount components on the page to visually process. This also may help the user to comprehend the different steps and functionalities in order to create a question.  
 
 Before:   
@@ -836,21 +868,18 @@ Before:
 After:  
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/question-creator-dropdown.gif">
 
-### 3. Answer question - Rating stars not being properly utilised  
-
-Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
+This update benefits the project as it separates each question creation feature into steps that the user can mentally break down. This reduces the visual complexity and the number of mental hoops that the user must go through to create a question. 
   
-https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/8  
-
-- A key issue we saw was that users were selecting the ratings wrongly during question answering. This was when they have submitted the answer and were told to rate the difficulty and quality ratings by clicking the stars. There were no visible confusion or response from the users in this task which meant that they did not cognitively know that they were doing the task wrongly. The correct way to do this task was to select all the stars up to the user's desired rating, eg. rating the question 4 stars would require the first 4 stars to be clicked and the last one to be empty, users would click the 4th star by itself and submit it. This issue was originally an Adobe XD limitation where the prototyping tool could not control selected states between the different stars.
-
-- We found a solution to make all the stars selected up to the user's selected star, eg. selecting the 4th star would select all previous ones. We brute-forced the Adobe XD limitation by creating many states and linking them together, this took quite awhile.   
+### 3. Answer question - Rating stars not being properly utilised  
+  
+- We found a solution to make all the stars selected up to the user's selected star, eg. selecting the 4th star would select all previous ones. We brute-forced the Adobe XD limitation by creating many states and linking them together which took a long period of time.   
 
 Before:  
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/rating-testing.gif">
   
 After:  
 <img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/rating-redo.gif">
-
+  
+This update benefits the project as it makes rating the difficulty and the quality of answered questions easier and clearer. This makes the user realise that they are giving the correct ratings when clicking the desired stars.  
 
 ## Usability Test Discussion  <a name="discussion"></a>

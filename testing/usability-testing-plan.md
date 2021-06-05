@@ -113,7 +113,9 @@ We have judged our metrics based on the following qualities:
 - Answerable - Does the question has an answer?
 - Actionable - Will the answer be useful to our goal?
 
-We believe that most of our questions meet these criteria and we are highly happy to ask these questions to the user.
+We believe that most of our questions meet these criteria and we are happy to ask these questions to the user.
+
+With the metrics we will collect from testing, we are happy at the level where we get reasonable answers during the interview and each subtask is completed in less than 30 seconds, which is less than the amount of time where an intervention would occur.
 
 
 ## Usability
