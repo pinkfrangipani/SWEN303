@@ -43,7 +43,8 @@ Our prototype is a Student Questioning System (SQS), named PeerRevise, that is t
 question-based learning. Our goal is to receive as much feedback as possible to improve our prototype. The system provides three main features that help 
 students revise, the features are; browsing and answering questions, starting a quiz which is a collection of questions, and creating a question. You will 
 be testing these features in the prototype. This will be done on our laptop and we will communicate what you will need to do. At the end of the testing 
-process, we will interview you on your experience and ask further questions. The interviewer will not answer questions you ask during the testing. You also must not discuss the testing with your other group members until your whole group has been tested. After this, the testing is completed and you will be free to go.
+process, we will interview you on your experience and ask further questions. The interviewer will not answer questions you ask during the testing. 
+You also must not discuss the testing with your other group members until your whole group has been tested. After this, the testing is completed and you will be free to go.
 ```
 
 ### Testing

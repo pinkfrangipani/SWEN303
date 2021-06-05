@@ -801,9 +801,45 @@ Personally, if I did revise, I would use it, but personally I don’t revise or 
 
 
 ## Updated prototype based on user testing <a name="updates"></a>
-1. Quiz - separating generation quiz + generating a quiz on different pages, too much information on quiz page
-2. Question creator - too much information (fix with and order)
-3. Question answering - suggestion ignored with big sizes which required the user to scroll downwards because of clarity and largness
-4. Answer question - ratings starts? prototype issue?
+
+Through analysing our usability test results. We saw three key points that we could update our prototype with and made issues on the GitLab repo:
+
+1. Quiz feature - Too much information on a single page  
   
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/6  
+
+- An issue we found was that users were having difficulty in interpreting the quiz page and knowing the distinction between quiz generation and browsing pre-made quizzes. This was because the quiz generation page was a bit too busy with the question generation at the top and question browsing at the bottom. During testing, we were only testing for quiz browsing and selection. This was actually indirectly testing the user in following instructions rather than utilising the system itself. This meant that we had to separate these two quiz related functions separately so we test the system and not the user.  
+
+- A solution we made to separate these two features was to hide the quiz generation functions but leave the title visible with a functional dropdown icon. This would help the user to direct themselves to the quiz browsing section instead of focusing on generating a question.  
+
+Before:  
+  
+After:  
+
+2. Question creator - Too much information and steps  
+  
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/7  
+
+- Through the interviews and testing conducted, we found that users were confused about the features and steps in order to create a question. The question interaction sequence asks the user to enter a title, add an image, enter answers, select an answer, enter an explanation, add topics, and submit to create a question. From this, we could see that the users could not differentiate the different components in the layout of the page correlating to a single step in creating a question. This ultimately confused some of our users which resulted in a long pause where an intervention for help was required.  
+
+- A solution we made was to add functional dropdown icons to the add question title, add image, and add answers sections. Upon entering the page the titles are visible but further functionalities are hidden until the user selects the dropdown icon. This helped to reduce the amount components on the page to visually process. This also may help the user to comprehend the different steps and functionalities in order to create a question.  
+
+Before:   
+  
+After:  
+
+
+3. Answer question - Rating stars not being properly utilised  
+  
+https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/8  
+
+- A key issue we saw was that users were selecting the ratings wrongly during question answering. This was when they have submitted the answer and were told to rate the difficulty and quality ratings by clicking the stars. There were no visible confusion or response from the users in this task which meant that they did not cognitively know that they were doing the task wrongly. The correct way to do this task was to select all the stars up to the user's desired rating, eg. rating the question 4 stars would require the first 4 stars to be clicked and the last one to be empty, users would click the 4th star by itself and submit it. This issue was originally an Adobe XD limitation where the prototyping tool could not control selected states between the different stars.
+
+- We found a solution to make all the stars selected up to the user's selected star, eg. selecting the 4th star would select all previous ones. We brute-forced the Adobe XD limitation by creating many states and linking them together, this took quite awhile.   
+
+Before:  
+  
+After:  
+
+
 ## Usability Test Discussion  <a name="discussion"></a>
