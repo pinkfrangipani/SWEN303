@@ -696,36 +696,36 @@ One of the best parts of our prototype is that we have four interactable sequenc
 
 ##### During Testing
 
-This looks really flash (the home page)
-This mouse is fast
-What class, sorry? (PSYC327)
-I am not sure if I clicked it
-Depends if its meant to do something more than that (rate and submit button)
-It’s changing colour 
-Sorry? (navigate to question creator)
+This looks really flash (the home page)  
+This mouse is fast  
+What class, sorry? (PSYC327)  
+I am not sure if I clicked it  
+Depends if its meant to do something more than that (rate and submit button)  
+It’s changing colour  
+Sorry? (navigate to question creator)  
 
 #### During Interview
 
-Do you have any questions about the prototype?
-No
-
-Tell us how did you feel when you were testing the prototype?
-Really good, felt like it’s a perfect system
-
-On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.
-4, 4 and a half
-
-What are some parts of the prototype that you thought it was difficult to do or was not clear?
-This is probably not part of the prototype, the mouse settings
-
-What are some parts of the prototype that you thought it was easy or clear?
-Yes, just the general layout, and the straightforward headings
-
-If the prototype was fully functional, would you use this system for revising course material? Why or why not?
-Yes, if someone wrote the questions for me, like the lecturer, not if it was me just because it is time consuming, 
+Do you have any questions about the prototype?  
+No  
+  
+Tell us how did you feel when you were testing the prototype?  
+Really good, felt like it’s a perfect system  
+  
+On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.  
+4, 4 and a half  
+  
+What are some parts of the prototype that you thought it was difficult to do or was not clear?  
+This is probably not part of the prototype, the mouse settings  
+  
+What are some parts of the prototype that you thought it was easy or clear?  
+Yes, just the general layout, and the straightforward headings  
+  
+If the prototype was fully functional, would you use this system for revising course material? Why or why not?  
+Yes, if someone wrote the questions for me, like the lecturer, not if it was me just because it is time consuming  
 Definitely use it if the other class members 
-You guys did a really good job
-
+You guys did a really good job  
+  
 #### User 2
 
 ##### During Testing
@@ -734,78 +734,80 @@ You guys did a really good job
 
 #### During Interview
 
-Do you have any questions about the prototype?
-No, seems pretty straightfoward
+Do you have any questions about the prototype?  
+No, seems pretty straightfoward  
 
-Tell us how did you feel when you were testing the prototype?
+Tell us how did you feel when you were testing the prototype?  
 Um, I felt curious, in some places I felt a little confused, but I thought that it was more to do with that it was just a prototype, that the interactions weren’t fully implemented, but I got the general gist of it, 
-I felt good, mostly good
+I felt good, mostly good  
+  
+On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.  
+I’d say 4  
+  
+What are some parts of the prototype that you thought it was difficult to do or was not clear?  
+Um, I thought that, It wasn’t entirely clear when creating a questions, you shouldn’t be able to  
+When editing the text, it shouldn’t be possible to select the answer, because its easy to select the wrong one  
+I felt like the questions could have been smaller so that they fit on one page, instead of needing to scroll down, cause I didn’t see them initially  
+All the options on one screen  
 
-On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.
-I’d say 4
-
-What are some parts of the prototype that you thought it was difficult to do or was not clear?
-Um, I thought that, It wasn’t entirely clear when creating a questions, you shouldn’t be able to 
-When editing the text, it shouldn’t be possible to select the answer, because its easy to select the wrong one
-I felt like the questions could have been smaller so that they fit on one page, instead of needing to scroll down, cause I didn’t see them initially
-All the options on one screen
-
-What are some parts of the prototype that you thought it was easy or clear?
-I thought the way that you can answer and browse questions was clear
-I thought the creation, browsing, the quiz, it was clear most of the time
-I liked everything else aside from those (two that were unclear)
-
-If the prototype was fully functional, would you use this system for revising course material? Why or why not?
-I would, with the caveat that it would have to be widely used, if it was adopted by teachers or tutors as well as students, it would be a good platform because there would already be questions
-If there wasn’t much content it wouldn’t be very useful
-
+What are some parts of the prototype that you thought it was easy or clear?  
+I thought the way that you can answer and browse questions was clear  
+I thought the creation, browsing, the quiz, it was clear most of the time  
+I liked everything else aside from those (two that were unclear)  
+  
+If the prototype was fully functional, would you use this system for revising course material? Why or why not?  
+I would, with the caveat that it would have to be widely used, if it was adopted by teachers or tutors as well as students, it would be a good platform because there would already be questions  
+If there wasn’t much content it wouldn’t be very useful  
+  
 #### User 3
 
 ##### During Testing
 
-Okay, cool (logging in)
-Oh, I see (answering a question)
-Rate a question? (checking what Jane said)
-Oh okay (rating the question)
-Sorry, could you repeat that? (Please input the shown fields)
-Oh I’ve messed up
-I’m not sure what you mean by shown fields
-Ah yep (click the show image button)
-I’m struggling with this, sorry
-I’m not sure what I’m meant to achieve, sorry
-Ah okay so you’ve put a picture in
+Okay, cool (logging in)  
+Oh, I see (answering a question)  
+Rate a question? (checking what Jane said)  
+Oh okay (rating the question)  
+Sorry, could you repeat that? (Please input the shown fields)  
+Oh I’ve messed up  
+I’m not sure what you mean by shown fields  
+Ah yep (click the show image button)  
+I’m struggling with this, sorry  
+I’m not sure what I’m meant to achieve, sorry  
+Ah okay so you’ve put a picture in  
 
 #### During Interview
 
-Do you have any questions about the prototype?
-None that come to mind
-
-Tell us how did you feel when you were testing the prototype?
-Quite calm and relaxed, bit unsure what to do at the last part, it was unclear
-
-On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.
-4 It’s definitely more pleasant to navigate than the old PeerWise, it wasn’t perfect obviously, 
-Maybe making the create a question part more immediately obvious might make it
-
-What are some parts of the prototype that you thought it was difficult to do or was not clear?
-Create a question was unclear what I was doing, but I did gloss over it, I’m not the best at taking in a lot of information at once
-If I was feeling more focused 
-
-What are some parts of the prototype that you thought it was easy or clear?
-The starting quiz part, it was quite cool, a big start button where you’d expect it to be, 
-The cards at the top it and slides was a lot of information at once, 
-Generate and browsing, my brain was expecting just browsing quizzes, maybe make generation a separate thing
-
-If the prototype was fully functional, would you use this system for revising course material? Why or why not?
-Personally, if I did revise, I would use it, but personally I don’t revise or do assignments, but someone who is into that I’d imagine it would be quite a useful tool 
+Do you have any questions about the prototype?  
+None that come to mind  
+  
+Tell us how did you feel when you were testing the prototype?  
+Quite calm and relaxed, bit unsure what to do at the last part, it was unclear  
+  
+On a scale from 1 - 5, rate your experience in testing the prototype, where 1 is very negative, 3 is neutral, and 5 is very positive.  
+4 It’s definitely more pleasant to navigate than the old PeerWise, it wasn’t perfect obviously,  
+Maybe making the create a question part more immediately obvious might make it  
+  
+What are some parts of the prototype that you thought it was difficult to do or was not clear?  
+Create a question was unclear what I was doing, but I did gloss over it, I’m not the best at taking in a lot of information at once  
+If I was feeling more focused   
+  
+What are some parts of the prototype that you thought it was easy or clear?  
+The starting quiz part, it was quite cool, a big start button where you’d expect it to be,  
+The cards at the top it and slides was a lot of information at once,  
+Generate and browsing, my brain was expecting just browsing quizzes, maybe make generation a separate thing  
+  
+If the prototype was fully functional, would you use this system for revising course material? Why or why not?  
+Personally, if I did revise, I would use it, but personally I don’t revise or do assignments, but someone who is into that I’d imagine it would be quite a useful tool   
 
 
 ## Updated prototype based on user testing <a name="updates"></a>
 
-Through analysing our usability test results. We saw three key points that we could update our prototype with and made issues on the GitLab repo:
+Through analysing our usability test results. We saw three key points that we could update our prototype with and made issues on the GitLab repo. :
 
-1. Quiz feature - Too much information on a single page  
-  
+### 1. Quiz feature - Too much information on a single page  
+
+Severity Rating: 2 - Minor usability problem: fixing this should be given low priority  
+
 https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/6  
 
 - An issue we found was that users were having difficulty in interpreting the quiz page and knowing the distinction between quiz generation and browsing pre-made quizzes. This was because the quiz generation page was a bit too busy with the question generation at the top and question browsing at the bottom. During testing, we were only testing for quiz browsing and selection. This was actually indirectly testing the user in following instructions rather than utilising the system itself. This meant that we had to separate these two quiz related functions separately so we test the system and not the user.  
@@ -813,10 +815,14 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-proj
 - A solution we made to separate these two features was to hide the quiz generation functions but leave the title visible with a functional dropdown icon. This would help the user to direct themselves to the quiz browsing section instead of focusing on generating a question.  
 
 Before:  
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/start%20new%20quiz.png">
   
 After:  
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/quiz-dropdown.gif">
 
-2. Question creator - Too much information and steps  
+### 2. Question creator - Too much information and steps  
+
+Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
   
 https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/7  
 
@@ -825,11 +831,14 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-proj
 - A solution we made was to add functional dropdown icons to the add question title, add image, and add answers sections. Upon entering the page the titles are visible but further functionalities are hidden until the user selects the dropdown icon. This helped to reduce the amount components on the page to visually process. This also may help the user to comprehend the different steps and functionalities in order to create a question.  
 
 Before:   
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator.png">
   
 After:  
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/question-creator-dropdown.gif">
 
+### 3. Answer question - Rating stars not being properly utilised  
 
-3. Answer question - Rating stars not being properly utilised  
+Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
   
 https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/8  
 
@@ -838,8 +847,10 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-proj
 - We found a solution to make all the stars selected up to the user's selected star, eg. selecting the 4th star would select all previous ones. We brute-forced the Adobe XD limitation by creating many states and linking them together, this took quite awhile.   
 
 Before:  
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/rating-testing.gif">
   
 After:  
+<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/rating-redo.gif">
 
 
 ## Usability Test Discussion  <a name="discussion"></a>
