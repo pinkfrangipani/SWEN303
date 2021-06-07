@@ -883,3 +883,21 @@ After:
 This update benefits the project as it makes rating the difficulty and the quality of answered questions easier and clearer. This makes the user realise that they are giving the correct ratings when clicking the desired stars.  
 
 ## Usability Test Discussion  <a name="discussion"></a>
+- my first idea for 'most significant result' would be that the create a question page was too dense in its information, and would benefit from a reduction
+- not sure what the most interesting thing was
+maybe the comments that the appeal of an sqs, or their interest in using one, is contingent on how much material already exists before they join and start using it?
+in other words, users prefer to study with existing material, and not make their own
+in the discussion should we think of reasons why they do that?
+like maybe they'd feel more assured that they are studying relevant material, or that the answers are correct, if they know the lecturer or tutor made the question
+or maybe that most users would be on the side of the scale that means they don't have a lot of time/energy to fully commit and create lots of questions
+or maybe simply that a service isn't very useful if it doesn't have any content in it
+- maybe that the quiz page contained too much information - which meant that we weren't really testing the system but rather testing the users' in following instructions? - in telling the user to select a premade quiz rather than generate a quiz
+another interesting thing was that we only needed to have one intervention maybe?
+- One of the users didn't think to scroll down on the questions page I think
+- maybe with that we could say that instead of focusing on reducing the need to click through lots of pages, users might prefer not needing to scroll down a page to see everything?
+- Yeah at least the important stuff eg not the comments
+- i.e. they would like it more if they could see everything in one look, even if it meant they had to click to a different page
+- That or we have an indicator somewhere showing that there's more if you scroll down
+- i think when I browse the internet, i can tell how long a page is by the size of the scroll bar, but in the prototype, you can't really see the scroll bar can you
+- Yeah with this I liked what the team we were the testers for did, they asked us what to do using different words than what was used on the webpage which meant I couldn't just scan the page for the words they mentioned. I actually had to think about how to do the task
+
