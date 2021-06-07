@@ -884,6 +884,24 @@ This update benefits the project as it makes rating the difficulty and the quali
 
 ## Usability Test Discussion  <a name="discussion"></a>
 
+- my first idea for 'most significant result' would be that the create a question page was too dense in its information, and would benefit from a reduction
+- not sure what the most interesting thing was
+maybe the comments that the appeal of an sqs, or their interest in using one, is contingent on how much material already exists before they join and start using it?
+in other words, users prefer to study with existing material, and not make their own
+in the discussion should we think of reasons why they do that?
+like maybe they'd feel more assured that they are studying relevant material, or that the answers are correct, if they know the lecturer or tutor made the question
+or maybe that most users would be on the side of the scale that means they don't have a lot of time/energy to fully commit and create lots of questions
+or maybe simply that a service isn't very useful if it doesn't have any content in it
+- maybe that the quiz page contained too much information - which meant that we weren't really testing the system but rather testing the users' in following instructions? - in telling the user to select a premade quiz rather than generate a quiz
+another interesting thing was that we only needed to have one intervention maybe?
+- One of the users didn't think to scroll down on the questions page I think
+- maybe with that we could say that instead of focusing on reducing the need to click through lots of pages, users might prefer not needing to scroll down a page to see everything?
+- Yeah at least the important stuff eg not the comments
+- i.e. they would like it more if they could see everything in one look, even if it meant they had to click to a different page
+- That or we have an indicator somewhere showing that there's more if you scroll down
+- i think when I browse the internet, i can tell how long a page is by the size of the scroll bar, but in the prototype, you can't really see the scroll bar can you
+- Yeah with this I liked what the team we were the testers for did, they asked us what to do using different words than what was used on the webpage which meant I couldn't just scan the page for the words they mentioned. I actually had to think about how to do the task
+
 One of the most interesting results that we found from our testing was that we only needed to intervene once throughout the process. This was surprising as we did not expect the process to go smoothly. There were a few hiccups where users would get stuck but they were able to complete the tasks by experimenting via clicking and scrolling. These hiccups were seen throughout the tasks where users would be confused in:
 
 - rating and submitting an answer during the question answering page
@@ -897,3 +915,4 @@ This was an interesting result because it not only showed a flaw in our prototyp
 The most significant result we found was that there was an occurring theme of 'information overload' and the pages being too busy. This result was found in our interview which was useful in assessing how users' felt. This issue was found in the layout of quiz and question creation pages. This demonstrated that individual differences in information processing and stimuli may have affected how long users' took to complete the task. Although one intervention was needed we thought that this was a key issue in affecting the users' experiences in interacting with our prototype so we updated our prototype with a solution we found. 
   
 The solution we found was to partially hide information of features with a dropdown button that hides and displays the additional information to the feature. This was implemented in the quiz page to hide the nonfunctional quiz generation feature and on the create a question page with the added title,  add image, and add answers. The good thing about this update was that it broke down interactions into steps so it may be less intimidating to process the page upon entry. A downside of this is that it adds another barrier to interact with the feature by clicking the dropdown button to reveal the feature. Another downside may be that we are delaying the information to be processed. This means that the user is no longer hit by the information overload upon entry at the page but it is further processed along the way. This may be a positive or negative experience for different users. This is a nontrivial problem as the trade-off is to make the page detailed to enhance user freedom or to hide information to enhance user comprehension.    
+
