@@ -1,6 +1,6 @@
  # Dennis Casas
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/personas/persona-images/dennis-small.png" alt="Dennis Casas" width="400" height="400">
+<img src="persona-images/dennis-small.png" alt="Dennis Casas" width="400" height="400">
 
 Dennis is a 19-year-old second-year student studying at Victoria University of Wellington. His degree is the Bachelor of Science majoring in Computer Science and Psychology. Dennis lives in Education House and can go to campus every day. Dennis’s study goal is to get a degree as smoothly as possible without needing to repeat courses. His life goals are to get a well-paying but still interesting job that can support his living costs.    
 

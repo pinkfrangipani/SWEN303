@@ -1,6 +1,6 @@
 # Rebecca Taylor
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/personas/persona-images/rebecca-small.png" alt="Rebecca Taylor" width="400" height="400">
+<img src="persona-images/rebecca-small.png" alt="Rebecca Taylor" width="400" height="400">
 
 Rebecca is a 21-year-old third-year student studying at Victoria University of Wellington. Her degree is the Bachelor of Biomedical Science majoring in Molecular Pharmacology and Medicinal Chemistry. Rebecca commutes from Upper Hutt and only goes to campus twice a week. Rebecca’s study goal is to have a thorough comprehension of her course content and achieve high grades in her assessments, so that it may contribute to her life goal of getting the tertiary qualifications needed to become a pharmacologist.
 

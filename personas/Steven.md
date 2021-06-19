@@ -1,6 +1,6 @@
 # Steven Ash
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/personas/persona-images/steven-small.png" alt="Steven Ash" width="400" height="400">
+<img src="persona-images/steven-small.png" alt="Steven Ash" width="400" height="400">
 
 **Bio:**
 Steven is a 27-year-old lecturer at Victoria University of Wellington. 
@@ -11,7 +11,7 @@ Steven is undergoing research whiling teaching at the same time. He is currently
 He values his growth in being the best lecturer he can in supporting his students. He is also trying to provide the best research to publish in one of the top scholarly journals. 
 
 **Activities:**
-Steven often has late starts in the morning due to working on his research throughout the evening and night. The first thing he does is to respond to emails and prepare for his lectures, tutorials, office hours. During the day he will often attend meetings and then carry out his lectures and set tasks. 
+Steven often has late starts in the morning due to working on his research throughout the evening and night. The first thing he does is to respond to emails and prepare for his lectures, tutorials, and office hours. During the day he will often attend meetings and then carry out his lectures and set tasks. 
 At weekends he enjoys rebuilding the rotary engine in his 1997 Mazda RX-7 RZ sports car and surfing at the beach.
 
 **Attitudes:**
