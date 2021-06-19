@@ -63,15 +63,15 @@ It is also important that the system must assist lecturers that will organise an
 The overall cost to use the SQS would be low, due to the nature of the students handling their own content. There is just the cost of time from the lecturer. This includes the initial setup from inviting students and ongoing frequent moderation. An example of cost-effectiveness is reducing the amount of hours the university must pay tutors. The students should be able to collaborate with any amount of interaction from the lecturer supported by the system itself. This interaction can be minimal to frequent in terms of moderation, inviting new students and feedback in comments.      
 
 ## Personas<a name="personas"></a>
-- [Rebecca Taylor](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/rebecca.md) - Te Ata 
-- [Dennis Casas](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/dennis.md) - Te Ata
-- [Elizabeth](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/elizabeth.md) - Jane  
-- [Steven Ash](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/personas/Steven.md) - Justin  
+- [Rebecca Taylor](personas/rebecca.md) - Te Ata 
+- [Dennis Casas](personas/dennis.md) - Te Ata
+- [Elizabeth](personas/elizabeth.md) - Jane  
+- [Steven Ash](personas/Steven.md) - Justin  
 
 ### How personas were selected and merged  
 We selected our personas based on a comprehensive discussion, throwing ideas and thoughts back and forth. We mainly selected our personas based on similarities and differences. To help us make these decisions, we created a table of attributes that spanned across all of our personas. This table covers their strengths, weaknesses, abilities, and system usage.  
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/personas/persona-attribute-table.PNG" alt="Persona Attribute Table" width="1311" height="787">
+<img src="personas/persona-attribute-table.PNG" alt="Persona Attribute Table" width="1311" height="787">
 
 Throughout the group, we found out that many personas were similar and diverse in many ways. Our different personas were similar in terms of their goals and habits. This was beneficial as we could tweak and combine different aspects in our personas. The similarities also meant that we had a consensus with attributes that we valued and agreed upon.  
 
@@ -269,40 +269,40 @@ Lastly, we chose Justin's moderator scenario in deleting and modifying questions
 ## Designs Ideation<a name="ideation"></a>  
 Here is a sample each team member's designs on the question answering page and feature.  
 
-**[Chris](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Chris)**
+**[Chris](individual-designs/Chris)**
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Chris/UX_Concepts_1_Quiz.png" width="751" height="589">
-
-<br>
-
-***
-
-**[Jane](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Jane/peerwisewireframes.pdf)**
-
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Jane/question-answering.PNG" width="480" height="856">
+<img src="individual-designs/Chris/UX_Concepts_1_Quiz.png" width="751" height="589">
 
 <br>
 
 ***
 
-**[Justin](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Justin)**
+**[Jane](individual-designs/Jane/peerwisewireframes.pdf)**
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Justin/web-student-answer-question.PNG" width="914" height="514">
+<img src="individual-designs/Jane/question-answering.PNG" width="480" height="856">
 
 <br>
 
 ***
 
-**[Te Ata](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/individual-designs/Te%20Ata)**
+**[Justin](individual-designs/Justin)**
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/individual-designs/Te%20Ata/PSYC327_Quiz_question_page_answered.png" width="640" height="875">
+<img src="individual-designs/Justin/web-student-answer-question.PNG" width="914" height="514">
+
+<br>
+
+***
+
+**[Te Ata](individual-designs/Te%20Ata)**
+
+<img src="individual-designs/Te%20Ata/PSYC327_Quiz_question_page_answered.png" width="640" height="875">
 
 
 
 ## Designs Review<a name="review"></a>    
 To review our designs, we use used a heuristic evaluation to measure the issues in all of our individual designs. We all individually assessed each other's designs using a spreadsheet template containing a list of Nielsen's Heuristics. We focused on the issues as we were striving for key elements that we could improve on our own designs and think of solutions that could remedy the issues. We believe that a key step in creating a combined prototype was to learn from our mistakes first. If we learn from what went wrong in our individual designs, we take one step closer to a better design and a better final prototype.
 
-[Heuristics evaluations](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/tree/master/heuristics_analysis)
+[Heuristics evaluations](heuristics_analysis)
 
 In our spreadsheet we measured issues by one of ten heuristics by Nielsen based on the following:   
 
@@ -388,17 +388,17 @@ Although there were many flaws in Justin's prototype, they were all easily fixab
 
 In analysing the hierarchy structure, we decided to rethink the flow of our system. We created the following diagram to describe the architecture of the new system. Through this, we took in the features we wanted, which was represented in the use cases above.    
 
-<img src="https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/project-hierarchy.png" width="942" height="672">
+<img src="final-prototype/project-hierarchy.png" width="942" height="672">
 
 
 ### Prototype Design
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/prototype-storyboard-view.PNG">
+<img src= "final-prototype/prototype-storyboard-view.PNG">
 
 #### Aesthetics
 From our heuristics evaluations, clarity plays a major factor in judging how well a design performs. In our approach, we used big fonts and a modified colour palette. Most of the fonts were kept from Justin's original prototype. We felt that these fonts were good enough and there were not any reasons to switch. We did modify the colour palette and scheme to emphasize productivity. From [Shift e-learning](https://www.shiftelearning.com/blog/how-do-colors-influence-learning), shades of blue represent productivity which is a key theme for the system which is dedicated to question-based learning. We made the change to include more shades of blue. I think we were all sceptical about this colour scheme but it eventually grew on us because we looked and worked on the designs for a long period. We will be interested in the results of how users feel during the next part of user testing.   
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/resource%20Board.png">
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/colour%20palette.png">
+<img src= "final-prototype/designs-images/resource%20Board.png">
+<img src= "final-prototype/designs-images/colour%20palette.png">
 
 
 #### Prototype discussion and walk-through
@@ -415,7 +415,7 @@ Most pages in our design follow a similar layout containing the same header bar.
 We felt that the header bar was an essential component for navigation. In our heuristic evaluations, we thought that this header bar was better than a directory path navigation flow. This was because the directory path can be often long and it is difficult to fit this into the page clearly and consistently. The header bar achieves this by having most of the main features at the top of every page, the user does not have to know the path of the pages that they have taken.
 
 ##### Classrooms/dashboard page
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/dashboard%20-%20student.png">
+<img src= "final-prototype/designs-images/dashboard%20-%20student.png">
 
 Components of page:
 
@@ -426,7 +426,7 @@ Components of page:
 This page appears after the user has navigated from the login page. Upon entering, a selection of classrooms is shown in light blue boxes. The PSYC327 classroom box is clickable, which is demonstrated by a hover animation where it outlines the box as grey. After clicking the box, the user is transitioned into the PSYC327 classroom where all the features such as question browsing, answering and creating are accessed from.   
 
 ##### Questions browsing page
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/questions%20-%20student%20login.png">
+<img src= "final-prototype/designs-images/questions%20-%20student%20login.png">
 
 Components of page:
 
@@ -438,7 +438,7 @@ This page allows users to search and browse for questions. Each question is disp
 The first question is clickable where an interactive sequence is initiated for answering a question.   
 
 ##### Question answering page
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/answer%20quiz%20question.png">
+<img src= "final-prototype/designs-images/answer%20quiz%20question.png">
 
 Components of page:
 
@@ -450,7 +450,7 @@ Components of page:
 
 The question answering page contains the question and its multi-choice selections. These multi-choice selections are functional and change to a different shade of blue, font colour and icon. From our heuristic evaluations, we found that matching a selected colour and an icon is important for supporting users with visual impairment. 
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/quiz%20question%20results.png">
+<img src= "final-prototype/designs-images/quiz%20question%20results.png">
 
 Updated components of page:
 
@@ -463,7 +463,7 @@ After clicking the submit button, the page will be updated to reflect the result
 The rating and comment boxes are visible to the user after they have answered the question. The rating box is functional with each star being clickable with the submit rating button.
 
 ##### Question creation page and interaction sequence
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator.png">
+<img src= "final-prototype/designs-images/question%20creator.png">
 
 Components of page:
 
@@ -476,20 +476,20 @@ Components of page:
 
 This create question page allows a user to create their own question. This whole page is intractable with each component that can be selected or clicked. Unfortunately, user input such as typing is currently unsupported by Adobe XD, this means that we had to simulate typing with predetermined input with clicking. 
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator%20-%20simulated%20input.PNG">
+<img src= "final-prototype/designs-images/question%20creator%20-%20simulated%20input.PNG">
 
 After the user has clicked all of the components on the page, this is what it looks like. 
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator%20-%20preview.png">
+<img src= "final-prototype/designs-images/question%20creator%20-%20preview.png">
 
 After clicking the preview button, the page updates to a question answering page with a return and publish button. This ensures that the question creator can directly see how it is displayed and that their uploaded image is correct.
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator%20-%20created%20question%20appears.png">
+<img src= "final-prototype/designs-images/question%20creator%20-%20created%20question%20appears.png">
 
 The question creator interaction sequence ends after the user has clicked the publish question button. This new page displays an updated question browsing page with the newly created question.
 
 ##### Start quiz page and interaction sequence
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/start%20new%20quiz.png">
+<img src= "final-prototype/designs-images/start%20new%20quiz.png">
 
 Components of page:
 
@@ -507,7 +507,7 @@ The start quiz page allows users to assess themselves with a collection of quest
 
 The generate and start quiz is not demonstrated in this prototype. It is a feature that automatically generates a quiz by putting similar questions together based on the user's preferences and options applied through the boxes. 
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/taking%20a%20quiz.png">
+<img src= "final-prototype/designs-images/taking%20a%20quiz.png">
 
 Updated components of page:
 
@@ -518,7 +518,7 @@ Updated components of page:
 
 Upon clicking the start quiz button on the first quiz in the browse quiz section, the user is brought to a quiz answering page. This page is similar to a single question answering page but it displays a banner of numbers representing each question of the quiz. This provides the user navigation to move between questions and an indicator for the question that they are on. Previous questions have their numbers faded with a line underneath and the current question number is highlighted.
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/taking%20a%20quiz%202.png">
+<img src= "final-prototype/designs-images/taking%20a%20quiz%202.png">
 
 Updated components of page:
 
@@ -526,7 +526,7 @@ Updated components of page:
 
 After the user has reached the last question in the quiz and selected their answer a view results button appears. This takes the user to a new page to view their results and how well they did in the quiz.
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/quiz%20results.png">
+<img src= "final-prototype/designs-images/quiz%20results.png">
 
 Updated components of page:
 
@@ -540,7 +540,7 @@ On this quiz results page, the user can see what question they got wrong as ever
 Upon clicking the return to browse quizzes button, the interaction sequence ends.
 
 ##### Lecturer pages and delete question interaction sequence
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/dashboard%20-%20lecturer.png">
+<img src= "final-prototype/designs-images/dashboard%20-%20lecturer.png">
 
 Components of page:
 
@@ -552,11 +552,11 @@ This interaction sequence is focused on the lecturer's task of moderation. The s
 
 There is also a separation of colour themes between students and lecturers views of the system. This was because it was easier to distinguish differences between interactions of students and lecturers during development. This can serve as a reminder to users as they could be a lecturer or a student in different classrooms.
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/questions%20%E2%80%93%20lecturer%20login.png">
+<img src= "final-prototype/designs-images/questions%20%E2%80%93%20lecturer%20login.png">
 
 Upon clicking the PSYC327 classroom, the lecturer is taken to the questions page to moderate questions. The lecturer selects the first question to look at.
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/lecturer%20view%20-%20modifying-removing.png">
+<img src= "final-prototype/designs-images/lecturer%20view%20-%20modifying-removing.png">
 
 Components of page:
 - Everything from students page
@@ -568,17 +568,17 @@ Components of page:
 
 In this interaction sequence, the lecturer decides to delete this question as the topic is no longer being assessed. 
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/lecturer%20view%20-%20modifying-removing%20%E2%80%93%201.png">
+<img src= "final-prototype/designs-images/lecturer%20view%20-%20modifying-removing%20%E2%80%93%201.png">
 
 Upon clicking the delete question button, the page becomes transparent with a pop-up message appearing in the centre with a blue cancel button and a red delete question button. 
 
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/lecturer%20question%20deletion%20-%20question%20disappears.png">
+<img src= "final-prototype/designs-images/lecturer%20question%20deletion%20-%20question%20disappears.png">
 
 After confirming deletion by clicking the red delete button again, the lecturer is taken to the question browsing page. The deleted question is removed from the question browsing page and the interaction sequence ends.
 
 
 ## Demonstration Video<a name="video"></a>  
-[Walkthough video of the system](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/final-prototype/VideoWalkthrough_Final.mp4)
+[Walkthough video of the system](final-prototype/VideoWalkthrough_Final.mp4)
 <br>
 <a href="https://www.youtube.com/watch?v=HlXoAkfIUQ4">Youtube link</a>
 
@@ -616,7 +616,7 @@ One of the best parts of our prototype is that we have four interactable sequenc
 
 ## Usability Testing Plan <a name="testingplan"></a>  
 
-[Usability testing plan document](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/blob/master/testing/usability-testing-plan.md)
+[Usability testing plan document](testing/usability-testing-plan.md)
 
   
 ## Usability Test Results <a name="results"></a>
@@ -815,23 +815,17 @@ Through analysing our usability test results, we saw the following key points th
 
 **1. Quiz feature - Too much information on a single page**  
   
-https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/6  
-  
 Severity Rating: 2 - Minor usability problem: fixing this should be given low priority  
   
 An issue we found was that users were having difficulty in interpreting the quiz page and knowing the distinction between quiz generation and browsing pre-made quizzes. This was because the quiz generation page was a bit too busy with the question generation at the top and question browsing at the bottom. During testing, we were only testing for quiz browsing and selection. This was actually indirectly testing the user in following instructions rather than utilising the system itself. This meant that we had to separate these two quiz related functions separately so we test the system and not the user.  
 
 **2. Question creator - Too much information and steps**
   
-https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/7  
-  
 Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
   
 Through the interviews and testing conducted, we found that users were confused about the features and steps in order to create a question. The question interaction sequence asks the user to enter a title, add an image, enter answers, select an answer, enter an explanation, add topics, and submit to create a question. From this, we could see that the users could not differentiate the different components in the layout of the page correlating to a single step in creating a question. This ultimately confused some of our users which resulted in a long pause where an intervention for help was required.  
 
-**3. Answer question - Rating stars not being properly utilised**  
-  
-https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/issues/8  
+**3. Answer question - Rating stars not being properly utilised**   
   
 Severity Rating: 3 - Major usability problem: important to fix, so should be given high priority  
   
@@ -851,10 +845,10 @@ We think that this issue is a cosmetic problem. To solve this, we will have to r
 - A solution we made to separate these two features was to hide the quiz generation functions but leave the title visible with a functional dropdown icon. This would help the user to direct themselves to the quiz browsing section instead of focusing on generating a question.  
 
 Before:  
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/start%20new%20quiz.png">
+<img src= "final-prototype/designs-images/start%20new%20quiz.png">
   
 After:  
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/quiz-dropdown.gif">  
+<img src= "final-prototype/updates-from-testing/quiz-dropdown.gif">  
   
 This update benefits the project as it separates the quiz generation and browsing features, reducing the number of visual stimuli and processing a user must go through.
 
@@ -863,10 +857,10 @@ This update benefits the project as it separates the quiz generation and browsin
 - A solution we made was to add functional dropdown icons to the add question title, add image, and add answers sections. Upon entering the page the titles are visible but further functionalities are hidden until the user selects the dropdown icon. This helped to reduce the amount components on the page to visually process. This also may help the user to comprehend the different steps and functionalities in order to create a question.  
 
 Before:   
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/designs-images/question%20creator.png">
+<img src= "final-prototype/designs-images/question%20creator.png">
   
 After:  
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/question-creator-dropdown.gif">
+<img src= "final-prototype/updates-from-testing/question-creator-dropdown.gif">
 
 This update benefits the project as it separates each question creation feature into steps that the user can mentally break down. This reduces the visual complexity and the number of mental hoops that the user must go through to create a question. 
   
@@ -875,10 +869,10 @@ This update benefits the project as it separates each question creation feature 
 - We found a solution to make all the stars selected up to the user's selected star, eg. selecting the 4th star would select all previous ones. We brute-forced the Adobe XD limitation by creating many states and linking them together which took a long period of time.   
 
 Before:  
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/rating-testing.gif">
+<img src= "final-prototype/updates-from-testing/rating-testing.gif">
   
 After:  
-<img src= "https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t13/peerwise-project/-/raw/master/final-prototype/updates-from-testing/rating-redo.gif">
+<img src= "final-prototype/updates-from-testing/rating-redo.gif">
   
 This update benefits the project as it makes rating the difficulty and the quality of answered questions easier and clearer. This makes the user realise that they are giving the correct ratings when clicking the desired stars.  
 
