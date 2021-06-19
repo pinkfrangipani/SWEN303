@@ -1,6 +1,6 @@
 # Elizabeth
 
-<img src="personas/persona-images/elizabeth.png" alt="Elizabeth" width="400" height="400">
+<img src="persona-images/elizabeth.png" alt="Elizabeth" width="400" height="400">
 
 Elizabeth is a first year student at Victoria University of Wellington, majoring in Biology. Her goal for studying is to gain a greater understanding of
 biology. She is interested in pursuing an academic career and enjoys helping others build their understanding. Her goal for using Peerwise is to help her fellow students understand the course material.  

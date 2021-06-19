@@ -1,6 +1,6 @@
 # Steven Ash
 
-<img src="personas/persona-images/steven-small.png" alt="Steven Ash" width="400" height="400">
+<img src="persona-images/steven-small.png" alt="Steven Ash" width="400" height="400">
 
 **Bio:**
 Steven is a 27-year-old lecturer at Victoria University of Wellington. 
